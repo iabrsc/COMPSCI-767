@@ -5,7 +5,7 @@ import time
 import random
 
 
-#I recognize that the www.amazon.com authority here is incorrect, but I didn't realize it until well into testing, and i don't want to potentially mess up my working code, so I'm leaving it as is
+
 headers = {
     'authority': 'www.newegg.com',
     'pragma': 'no-cache',
@@ -34,7 +34,14 @@ for i in range(1, 60):
     soup = BeautifulSoup(response.text, "html.parser")
     product_containers = soup.find_all('div', {'class': 'item-container'})
 
-   
+
+    #save raw html data (combining the parsing below)
+    with open(f"newegg_html_data_page_{i}.html", "w", encoding='utf-8') as file:
+        file.write(str(soup.prettify()))
+
+
+    #wow this was rough, much more difficult to pick apart than Amazon was for whatever reason...
+    #       Skims extracted html data and extracts attributes below
     for container in product_containers:
         name_tag = container.find('a', {'class': 'item-title'})
         name = name_tag.text.strip() if name_tag else ''

@@ -8,8 +8,8 @@ import random
 
 #defines HTTP headers; simulates a web browser to make the request appear more... legitimate. 
 #Got most of the header information from an request found via 'INSPECT > NETWORK/DEVELOPERTOOLS > request' on the amazon web page. I guessed a bit on some
-#   of these, but it seems to work regardless. I'm aware that some of this might be useless/counterintuitive depending on how their page is set up to 
-#   prevent scraping
+#   of these, but it seems to work regardless.
+#I'm going to be honest, I'm not sure if this is really doing anything (or if i set it up right...)
 headers = {
     'authority': 'www.amazon.com',
     'pragma': 'no-cache',
@@ -41,6 +41,9 @@ for i in range(1, 100):
     soup = BeautifulSoup(response.text, "html.parser")
     product_div = soup.find_all('div', {'data-component-type': 's-search-result'}) #this is the WHOLE area of items, not each individual items, perhaps I should narrow it
 
+    #save raw html data (combining the parsing below)
+    with open(f"amazon_html_data_page_{i}.html", "w", encoding='utf-8') as file:
+        file.write(str(soup.prettify()))
 
     #Extraction of attributes from particular container, appends to the products list.
     for container in product_div:
