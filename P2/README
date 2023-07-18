@@ -1,0 +1,3 @@
+--Project Part 2--
+
+*Wrote script to split apart 'Product information' column of the Amazon table (called cleanupAmazon.py), as well as clean the data a bit (removed all non-numerics from 'Number of Ratings', changed 'Rating' format from 'X.X out of 5' to just the number it got 'X.X', etc.)
