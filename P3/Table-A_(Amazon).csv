@@ -1,0 +1,884 @@
+ID,Name,Display Size,RAM (GB),Storage,GPU,Brand,Operating System,CPU,Color,Screen Resolution,Series
+1,"HP 17.3"" Flagship HD+ Business ",?17.3,?16,?1024,?Intel UHD Graphics,?HP,?Windows11,?Intel,,?1600x900,?HP
+2,"Lenovo IdeaPad, 20GB RAM, 1TB SSD, AMD Dual-core Processor, 15.6 Inch HD Anti-Glare Display, Long Battery Life Up to 9.5Hr, HDMI, SD Card Reader, Windows 11, 1 Year Microsoft 365",?15.6,?20,?1024,?AMD Radeon,?Lenovo,?Windows11,?AMD,,?1366x768,?IdeaPad
+3,"Lenovo Ideapad 1i 14"" HD (Intel Celeron N4020, 4GB RAM, 128GB Storage (64GB eMMC + 64GB SD Card), UHD Graphics) Home & Education ",?14,?4,?128,?Intel UHD Graphics 600,?Istcomputers,?Windows11S,?Intel,?Cloud Grey,?1366x768,?Ideapad 1i
+4,"Gateway 2023 15"" HD IPS ",?15,?4,?128,,?Gateway,?ChromeOS,?Intel,,?1366x768,"?Gateway 15"" Chromebook"
+5,Gateway Newest Touchscreen 11.6 HD 2-in-1 Convertible ,?11.6,?4,?64,?Intel,?Gateway,?Windows10S,?Intel,?Black,?1366x768,?Gateway-11-T-Black
+6,jumper ,?14,?12,?256,?Intel UHD Graphics 600,?jumper,?Windows11,?Intel,,?1920x1080,?Jumper Laptop S5
+7,WIPEMIK ,?15.6,?,?512,?Intel UHD Graphics 600,?WIPEMIK,?Windows11Pro,?Intel,,?1920x1080,
+8,HP 2022 Stream 14'' HD ,?14,?4,?64,?Intel HD Graphics 600,?HP,?Windows11S,?Intel,?White,?1366x768,
+9,"HP Latest Stream 14"" HD ",?14,?4,?64,?Intel Integrated Graphics 600,?HP,?Windows11,?Intel,?Jet Black,?1366x768,?HP Laptop
+10,Lenovo 2022 Ideapad 3 ,?15.6,?12,?256,?Intel UHD Graphics,?Lenovo,?Windows11Home,?Intel,?Almond,?1366x768,?Ideapad 3
+11,Acer Swift 3 Thin & Light ,?14,?8,?512,?AMD Radeon Graphics,?acer,?Windows10Home,?AMD,?Silver,?1920x1080,?Swift 3
+12,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+13,"HP 2023 14"" HD IPS Chromebook, Intel Pentium 4-Core Processor Up to 2.68GHz, 4GB Ram, 64GB SSD, Intel 4K Graphics, Super-Fast 6th Gen WiFi, Dale Silver, Chrome OS (Renewed)",?14,?4,?64,,?HP,?ChromeOS,?Intel,?Dale Silver,?1366x768,"?HP 14"" Chromebook"
+14,ASUS Newest Vivobook ,?14,?24,?1024,?Intel UHD Graphics 770,?ASUS,?Windows11Home,?Intel,?Silver,?1366x768,?ASUS - Vivobook
+15,"Acer Vero 14"" FHD ",?14,?16,?512,,?Acer,?Windows11Home,?Intel,,?1920x1080,?AV14-51-58XZ
+16,Dell Latitude 5400 Business ,?14,?8,?,,?Dell,?Windows10Pro,?Intel,,?1920x1080,?Dell Latitude
+17,Coolby ,?15.6,?4,?512,,?Coolby,?Windows11Pro,?Intel,,?1920x1080,?HealBook Pro
+18,SGIN 15.6 Inch ,?15.6,?4,?128,?Integrated,?SGIN,?Windows11,?Intel,?Gray,?1366x768,
+19,"ASUS C223 11.6"" HD Chromebook ",?11.6,?4,?32,?Intel HD Graphics 500,?ASUS,?ChromeOS,?Intel,?Gray,?1366x768,
+20,"HP Newest 14"" Ultral Light ",?14,?,?64,?Intel UHD Graphics 600,?HP,?Windows11Home,?Intel,?Jet Black,?1366x768,"?HP Newest 14"""
+21,Lenovo Ideapad 14in Chromebook Intel Celeron N3060 Dual-core 1.6GHz 4GB LPDDR3 32GB Flash Memory Chrome OS (Renewed),?14,?4,?32,?Intel HD Graphics 400,?Lenovo,?ChromeOS,?Intel,,?1366x768,?N42-20
+22,SGIN ,?15.6,?4,?128,?Integrated,?SGIN,?Windows11Home,?Intel,?Silver,?1366x768,?SGIN-M15
+23,WIPEMIK ,?15.6,?,?512,?Intel UHD Graphics 600,?WIPEMIK,?Windows11Pro,?Intel,,?1920x1080,
+24,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+25,"HP 17.3"" Full HD ",?17.3,?8,?256,?AMD Radeon Integrated Graphics,?HP,?Windows10,?AMD,?Silver,?1920x1800,?HP 17 Laptop
+26,15.6inch 1080p ,?15.6,?,?512,?Intel UHD Graphics,?Generic,?Windows11Home,?Intel,?Gray,?1920x1080,?X133
+27,"HP 2022 Stream 14"" HD BrightView ",?14,?16,?64,?Intel HD Graphics 600,?HP,?Windows11,?Intel,?Blue,?1366x768,
+28,HP 15.6 inch ,?15.6,?,?,,?HP,?Windows11Home,?Intel,?Silver,?1920x1080,?HP 15.6 inch Laptop PC
+29,HP Premium 14-inch HD Thin and Light ,?14,?32,?64,?Intel UHD Graphics,?HP,?Windows11,?Intel,?Pink,?1366x768,?Premium
+30,"HP Newest 14"" HD ",?14,?8,?256,?Intel UHD Graphics,?HP,?Windows10Home,?Intel,?Natural Silver,?1366x768,?Dell Precision
+31,"Lenovo IdeaPad Duet 3 10IGL5 10.3"" WUXGA Touchscreen Notebook Intel Celeron N4020 4GB Ram 64GB eMMC microSD Card Slot Graphite Grey Windows 11 Home in S Mode (Renewed)",?10.3,?4,?64,?Intel,?Lenovo,"?English,Windows11Home",?Intel,,?1920x1080,
+32,Dell Inspiron 15 3000 15.6-inch Full HD 11th Gen Intel Core i5-1135G7 12GB 256GB SSD ,?15.6,?12,?256,?Intel Iris Xe Graphics,?Dell,?Windows10,?Intel,?Black,?1920x1080,?Dell Inspiron
+33,"HP 17.3"" Flagship HD+ Business ",?17.3,?16,?1024,?Intel UHD Graphics,?HP,?Windows11,?Intel,,?1600x900,?HP
+34,Coolby ,?15.6,?4,?512,,?Coolby,?Windows11Pro,?Intel,,?1920x1080,?HealBook Pro
+35,Acer Aspire 5 A515-56-53S3 ,?15.6,?8,?256,,?acer,?Windows,?Intel,?Silver,?1920x1080,?Aspire 5
+36,"Lenovo ThinkPad T460 14in Notebook Intel Core I5-6200U up to 2.8G,Webcam,1920x1080,8G RAM,256G SSD,USB 3.0,HDMI,Win 10 Pro 64 Bit,Multi-Language Support English-Spanish (Renewed)",?14,?8,?256,?Integrated HD Graphics,?Lenovo,"?Windows10Professional64Bit,Multi-LanguageSupportEnglish/Spanish",?Intel,,?1920x1080,?Lenovo Thinkpad
+37,"Apple MacBook Air with Intel Core i5, 1.6GHz, (13-inch, 4GB,128GB SSD) - Silver (Renewed)",?13.3,?4,?128,?Intel HD Graphics 6000,?Apple,?MacOS,?Intel,?Silver,?1440x900,?MacBook Air
+38,2022 HP Envy X360 15.6'' FHD IPS Touchscreen 2-in-1 ,?15.6,?64,?2048,?Intel Iris Xe Graphics,?HP,?Windows11Home,?Intel,?Natural Silver,?1920x1080,?15T-EW000
+39,"HP EliteBook 840 G6 14"" FHD (1920x1080) IPS Business ",?14,?,?512,?Intel UHD Graphics 620,?HP,?Windows10Pro,?Intel,,?1920x1080,?HP EliteBook 840 G6
+40,Asus 2022 ASUS ROG Zephyrus 14'' Flagship Gaming ,?14,?16,?512,?NVIDIA GeForce RTX 3060,?ASUS,?Windows11Home,?AMD,,?1920x1080,?ASUS ROG Zephyrus 14
+41,"Lenovo - IdeaPad 3 15"" ",?15.6,?8,?256,?Intel UHD Graphics,?Lenovo,?Windows10,?Intel,?Platinum Gray,?1920x1080,?Lenovo Ideapad
+42,HP Chromebook 14-inch FHD ,?14,?44,?32,?Intel UHD Graphics 600,?HP,?ChromeOS,?Intel,?Mineral Silver,?1920x1080,?Chromebook
+43,SGIN ,?15.6,?4,?128,?Integrated,?SGIN,?Windows11Home,?Intel,?Silver,?1366x768,?SGIN-M15
+44,Lenovo IdeaPad Gaming 3 ,?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+45,WIPEMIK ,?15.6,?,?512,?Intel UHD Graphics 600,?WIPEMIK,?Windows11Pro,?Intel,,?1920x1080,
+46,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+47,Dell Precision 15 7530 15.6-inch FHD Mobile Workstation ,?15.6,?16,?512,?Quadro P1000,?Dell,?Windows10,?Intel,?Black,?1920x1080,?Dell Precision
+48,"Dell Precision M5520 Intel Core i7-7820HQ X4 2.9GHz 16GB 512GB SSD, Silver (Renewed)",?15.6,?16,?512,?NVIDIA Quadro M1200,?Dell,?Windows10Pro,?Intel,,?1920x1080,?Dell Precision
+49,HP ProBook 640 G3 14 Inch ,?14,?8,?256,?Intel HD Graphics,?HP,?Win10Pro64BitMulti-LanguageSupportEnglish/French/Spanish(Renewed),?Intel,?Black,?1366x768,?ProBook 640 G3
+50,Dell Latitude 3340 13.3-inch ,?13.3,?8,?500,?Intel HD Graphics 4400,?Dell,?Windows10Home,?Intel,?Black,?1366x768,?Latitude
+51,"Dell Latitude E6530 15.6INCH FHDplus (19201080), Intel Core I5 3210M Upto 3.1G, 8G DDR3, 512GB SSD, DVD, WiFi, VGA, HDMI, USB 3.0, Win10 64 Bit-Multi-Language(CI5)(Renewed)",?15.6,?8,?512,?Intel HD Graphics,?Dell,?Windows10Home64Bit–Multi-languagesupportsEnglish/Spanish/French,?Intel,,?1920x1080,?Dell Latitude
+52,Dell Latitude E6420 14.1-Inch ,?14.1,?4,?128,?Intel HD Graphics 3000,?Dell,?Windows10;,?Intel,?Black/silver,?1366x768,?Dell Latitude
+53,"HP Stream 14inch HD Display,Intel(R) Celeron(R) N4120 Processor, 32GB DDR4 Memory, 128GB Storage (64GB eMMC+64GB Card),WiFi, Webcam, Bluetooth, 1-Year Microsoft 365, Win11, Rose Gold, W/GaLiMu",?14,?,?64,?Intel UHD Graphics 600,?HP,?Windows11,?Intel,?Rose Gold,?1366x768,??HP Stream 14
+54,Acer Chromebook C740 11.6 Inch Non-Touch ,?11.6,?4L,?16,?Intel HD Graphics,?Acer,?ChromeOS,?Intel,,?1366x768,?Acer
+55,Coolby ,?15.6,?4,?512,,?Coolby,?Windows11Pro,?Intel,,?1920x1080,?HealBook Pro
+56,SGIN ,?15.6,?4,?128,?Integrated,?SGIN,?Windows11Home,?Intel,?Silver,?1366x768,?SGIN-M15
+57,SGIN 15.6 Inch ,?15.6,?12,?512,?Integrated,?SGIN,,?Intel,?Black,,
+58,HP Pavilion Premium ,?15.6,?16,?512,?AMD Radeon Graphics,?HP,?Windows10,?AMD,?Natural Silver,?1920x1080,?Pavilion
+59,Lenovo IdeaPad 3i ,?14,?,?256,?Intel UHD Graphics,?Lenovo,?Windows11Home,?Intel,?Grey,?1920x1080,
+60,"Dell Precision 5520 15.6-inch FHD, Core i7-6820HQ 2.7GHz, 16GB RAM, 1TB Solid State Drive, Windows 10 Pro 64Bit, (Renewed)",?15.6,?16,?1024,,?Dell,?Windows10Pro,,?Black,?1920x1080,
+61,"HP 2023 Newest 14"" HD Ultral Light Thin ",?14,?4,?64,?Intel UHD Graphics 600,?HP,?Windows11Home,?Intel,?White,?1366x768,?Newest HP 14 Inch Laptop
+62,Asus Vivobook L510 Ultra Thin ,?15.6,?4,?,?Intel UHD Graphics,?ASUS,"?Windows10Home,Windows10S",?Intel,?Black,?1920x1080,?ASUS VivoBook
+63,jumper 2 in 1 ,?11.6,?4,?128,?Intel UHD Graphics 600,?Jumper,?Windows11Home,?Intel,?Gray,?1366x768,?EZbook X1S
+64,MSI Latest Sword 15 Gaming ,?15.6,?16,?1024,?NVIDIA GeForce RTX 3050,?MSI,?Windows11Home,?Intel,?White,?1920x1080,?Sword 15 A12UC
+65,Lenovo IdeaPad Gaming 3 ,?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+66,"HP 17.3"" Flagship HD+ Business ",?17.3,?16,?1024,?Intel UHD Graphics,?HP,?Windows11,?Intel,,?1600x900,?HP
+67,"Laptop Computer, 15.6 Inch 12GB RAM 512GB SSD Intel Quad-Core N4120 Windows 11 Laptop, 1080P Full HD IPS Display, 2.4/5G WiFi, Bluetooth 4.2, USB 3.0, Webcam, Expandable Up to 1TB",?15.6,?,?512,?Intel UHD Graphics 600,?WIPEMIK,?Windows11Pro,?Intel,,?1920x1080,
+68,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+69,"Dell Precision 5520 15.6-inch FHD, Core i7-6820HQ 2.7GHz, 16GB RAM, 1TB Solid State Drive, Windows 10 Pro 64Bit, (Renewed)",?15.6,?16,?1024,,?Dell,?Windows10Pro,,?Black,?1920x1080,
+70,"SGIN 15.6 Inch Laptop Windows 11 Laptops 12GB DDR4 512GB SSD (TF 512GB), Intel Celeron N5095 Processor(Up to 2.9GHz), FHD 1920x1080 Notebook with 2xUSB 3.0, Dual Band WiFi, Bluetooth",?15.6,?12,?512,?Integrated,?SGIN,,?Intel,?Black,,
+71,"HP 2023 17 17.3"" HD+ Business Laptop, 12th Gen Intel 10-Core i5-1235U (Beat i7-1195G7), 32GB DDR4 RAM, 1TB PCIe SSD, 802.11AC WiFi, Bluetooth 5.0, Jet Black, Windows 11 Pro, BROAG HDMI Cable",?17.3,?32,?1024,?Intel Iris Xe Graphics,?HP,?Windows11Pro,?Intel,?Black,?1600x900,?HP Laptop
+72,HP 2021 15.6'' HD Laptop PC AMD Dual-Core Ryzen 3 3250U 4GB DDR4 128GB SSD + 1TB HDD AMD Radeon Graphics USB-C HDMI WiFi AC RJ45 Bluetooth Webcam Fast Charge Windows 10 Home,?15.6,?4,?1024,?AMD Radeon Graphics,?HP,?Windows10Home,?AMD,,?1366x768,?1A1L3UA
+73,"Dell Latitude E7250 UltraBook Business Laptop NoteBook (Intel Quad Core i5-5300U, 8GB Ram, 128GB Solid State SSD, HDMI, Camera, WIFI) Win 10 Pro SC Card Reader (Renewed)",?12.5,?8L,?128,?Intel,?Dell,?Windows10,?Intel,,?1366x768,?Dell Latitude
+74,Dell Precision 15 7530 15.6-inch FHD Mobile Workstation Laptop w/ i5-8300H / 16GB / 512GB SSD / Quadro P1000 / Windows 10 (Renewed),?15.6,?16,?512,?Quadro P1000,?Dell,?Windows10,?Intel,?Black,?1920x1080,?Dell Precision
+75,"Dell Latitude 3340 13.3-inch Laptop, Intel Core i5, 8GB RAM, 500GB HDD, Win10 Home. Refurbished (Renewed)",?13.3,?8,?500,?Intel HD Graphics 4400,?Dell,?Windows10Home,?Intel,?Black,?1366x768,?Latitude
+76,"HP 2023 Newest 14"" HD Ultral Light Thin Laptop, Quad-Core Intel Celeron Processor, 4GB RAM, 64GB eMMC, Webcam, HDMI, Wi-Fi, Upto 11 Hours, Windows 11 S + 1 Year Office 365+HubxcelAccessory, White",?14,?4,?64,?Intel UHD Graphics 600,?HP,?Windows11Home,?Intel,?White,?1366x768,?Newest HP 14 Inch Laptop
+77,"Laptop Computer, 15.6 inch Windows 11 Laptop with 1920x1080 IPS Display, 12GB RAM/512 GB NVMe SSD, Intel N5095 Quad Core Notebook PC, Support 2.4G/5G Hz WiFi, BT, Type-c PD 3.0 Charging",?15.6,?4,?512,,?Coolby,?Windows11Pro,?Intel,,?1920x1080,?HealBook Pro
+78,"SGIN Laptop 15.6 Inch 4GB DDR4 128GB SSD, Windows 11 Laptop with Intel Celeron, up to 2.8GHz, Mini HDMI, 2.4/5.0G WiFi, 2 x USB 3.0, Expandable Storage 512GB TF(Sliver)",?15.6,?4,?128,?Integrated,?SGIN,?Windows11Home,?Intel,?Silver,?1366x768,?SGIN-M15
+79,"2022 Pavilion Laptop - 12th Gen Intel Core i7-1260P - 15.6"" FHD 1920x1080 Touch Display - 64GB DDR4-2TB NVMe SSD - Backlit Keyboard - WiFi 6 - Type-C - HDMI 2.0 - Fingerprint - Windows 10 Home",?15.6,?64,?2048,?Intel Iris Xe Graphics,?HP,?Windows10Home,?Intel,?Natural Silver,?1920x1080,?15-EG200CTO
+80,"Dell Latitude 5290 12.5"" HD Laptop, Intel Core 8th Gen i5-8250U, Dual Core up to 3.5Ghz, 16GB DDR4 RAM, 256GB SSD,HDMI, Type C, CAM, Windows 10 Pro (Renewed)",?12.5,?16,?256,?Intel UHD Graphics,?Dell,?Windows10Pro,?Intel,,?1366x768,?Dell 2KY Latitude 5290
+81,"HP Stream 14"" HD Display, Intel Celeron Dual-Core Processor, 8GB DDR4 Memory, 128GB Storage (64GB eMMC+64GB Card) HDMI WiFi Webcam Bluetooth 1-Year Microsoft 365 Win11S, Brilliant Black, NoCo Bundle",?14,?8,?64,?Intel HD Graphics 600,?HP,?Windows11Home,?Intel,?Brilliant Black,?1366x768,?HP Stream
+82,"Lenovo IdeaPad 3i Laptop, 14"" FHD Display, Dual-core Intel i3-1115G4 Processor, 12GB RAM, 256GB SSD, Webcam, HDMI, 4 in 1 Card Reader, Dolby Audio, Wi-Fi 6, Windows 11 Home, Platinum Grey",?14,?,?256,?Intel UHD Graphics,?Lenovo,?Windows11Home,?Intel,?Grey,?1920x1080,
+83,"Lenovo IdeaPad 3 Laptop, 17.3"" FHD Display, AMD Ryzen 5 5625U Processor (Beats i7-1255U), 16GB RAM, 512GB SSD, AMD Radeon Vega 7 Graphics, Fingerprint Reader, Wi-Fi 6, Windows 11 Home",?17.3,?16,?512,?AMD Radeon Vega 7,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?Lenovo IdeaPad 3
+84,"2022 Newest Lenovo IdeaPad 3i 15.6"" FHD Laptop, 11th Gen Intel Core i3-1115G4 Processor, 8 GB DDR4 RAM, 128 GB PCIe NVMe SSD, WiFi, Long Battery Life, Fingerprint Reader, Windows 11, Platinum Grey",?15.6,?8,?256,?Intel,?Lenovo,?Windows11,?Intel,,?1920x1080,?IdeaPad 3i
+85,"Lenovo Ideapad 15.6"" HD Laptop, Athlon Silver 3050U (Beats i3-1005G1) Dual-core Processor, 8GB RAM, 128GB SSD, WiFi, Webcam, Bluetooth, Win 11 S, Cloud Grey, TECL Bundle",?15.6,?8,?128,?AMD Radeon Graphics,?Lenovo,?Windows11,?Intel,?Cloud Grey,?1366x768,?Lenovo IdeaPad
+86,"HP 2023 14-inch HD Laptop, Intel Celeron N4020, 32GB RAM, 64 GB Storage, Windows 11 Home, Thin & Portable, 4K Graphics, One Year of Microsoft 365, Indigo Blue",?14,?,?64,?Intel HD Graphics 604,?HP,?Windows11Home,?Intel,?Royal Blue,?1366x768,
+87,"Lenovo IdeaPad Gaming 3 Laptop, 15.6” 120 Hz FHD Display, AMD Ryzen 7 7735HS, NVIDIA GeForce RTX 4050, 32GB DDR5 RAM, 1TB SSD, Backlit KB, Wi-Fi 6, RJ-45, HDMI, Windows 11 Home, Grey",?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+88,"HP 17.3"" Flagship HD+ Business Laptop, 16GB DDR4 RAM, 1TB PCIe SSD, Intel Quad Core i3-1125G4(Beat i5-1035G4), Bluetooth, HDMI, Webcam, Windows 11, Silver, w/GM Accessories",?17.3,?16,?1024,?Intel UHD Graphics,?HP,?Windows11,?Intel,,?1600x900,?HP
+89,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+90,"Dell Inspiron 15 3530 Laptop - Intel Core i5-1335U, 15.6-inch FHD 120Hz Display, 16GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 11 Home, Services Included - Platinum Silver",?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+91,"Dell Latitude E7250 UltraBook Business Laptop NoteBook (Intel Quad Core i5-5300U, 8GB Ram, 128GB Solid State SSD, HDMI, Camera, WIFI) Win 10 Pro SC Card Reader (Renewed)",?12.5,?8L,?128,?Intel,?Dell,?Windows10,?Intel,,?1366x768,?Dell Latitude
+92,"HP Pavilion Business & Student Laptop, 15.6"" HD Display, AMD Ryzen 3 5300U Processor (Beats i7-1065G7), 16GB RAM, 1TB SSD, AMD Radeon Graphics, Long Battery Life, Wi-Fi 6, Webcam, Bluetooth, Win11",?15.6,?16,?1024,?AMD Radeon Graphics,?HP,?Windows11,?AMD,?Natural Silver,?1366x768,?Pavilion
+93,"Lenovo IdeaPad 3 Laptop, 17.3"" FHD Display, AMD Ryzen 5 5625U Processor (Beats i7-1255U), 16GB RAM, 512GB SSD, AMD Radeon Vega 7 Graphics, Fingerprint Reader, Wi-Fi 6, Windows 11 Home",?17.3,?16,?512,?AMD Radeon Vega 7,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?Lenovo IdeaPad 3
+94,"ASUS Vivobook 16X K3605V 2023 Laptop 16"" WUXGA 1920x1200 IPS 14-Core Intel i9-13900H 32GB DDR4 1TB SSD NVIDIA GeForce RTX 4050 4GBGB GDDR6 Wi-Fi 6E Backlit Keyboard Windows 11 Home w/ONT 32GB USB",?16,?32,?1024,?NVIDIA GeForce RTX 4050,?ASUS,?Windows11Home,?Intel,?Indie Black,?1920x1200,?Vivobook 16X
+95,"HP EliteBook 840 G3 - 14” FHD, Intel Core i5-6300U 2.4Ghz, 8GB DDR4, 256GB SSD, Bluetooth 4.2, Windows 10 64 (Renewed)",?14,?8,?256,?Intel HD Graphics 520,?HP,?Windows10Pro,?Intel,?Silver,?1366x768,?Elitebook 840 G3
+96,"Dell Vostro 3510 Business Laptop, 15.6"" FHD Computer, Intel Quad-Core i7-1165G7 up to 4.7GHz, 32GB DDR4 RAM, 1TB PCIe SSD, 802.11AC WiFi, Bluetooth, Carbon Black, Windows 11 Pro",?15.6,?32,?1024,?Intel UHD Graphics,?Dell,?Windows11Pro,?Intel,,?1920x1080,?Vostro
+97,"HP 15.6 HD Laptop for Business and Student, WLED-Backlit Display, AMD Ryzen 3 3250U(Up to 3.5GHz), 16GB RAM, 512GB SSD, Ethernet, WiFi, Fast Charge, Webcam, HDMI, Win10, w/GM Accessories",?15.6,?16SDRAM,?512,?AMD Radeon Graphics,?HP,?Windows10,?AMD,?Natural Silver,?1366x768,
+98,"2022 ASUS Laptop L210 11.6” Ultra Thin Student Laptop Computer, Intel Celeron N4020 Processor, 4GB RAM, 192 GB Storage, Windows 10 Home in S Mode with One Year of Office 365 Personal, Star Black",?11.6,?4,?192,?Intel UHD Graphics,?ASUS,?Windows10,?Intel,,?1366x768,?L210
+99,"Lenovo IdeaPad Flex 5-2023 - Touchscreen 2-in-1 Laptop - Windows 11 Home - 14"" FHD Display - 16GB Memory - 512GB Storage - AMD Ryzen 5 5500U - Abyss Blue",?14,,?512,?AMD Radeon R5,?Lenovo,?Windows11Home,?AMD,,?1920x1080,?Flex 5
+100,"Lenovo 15.6'' IdeaPad Laptop (Latest Model), AMD Athlon Dual Core Processor, 640GB SSD (128GB eMMC+512GB PCIe SSD), Webcam, HDMI, WiFi 6, USB Type-C, Long Battery Life, NLY MP, Windows 11, Grey",?15.6,?8,?512,?AMD Radeon Graphics,?Lenovo,?Windows11S,?AMD,?Grey,??1366x768,?Lenovo IdeaPad Laptop
+101,"HP 2023 14-inch HD Laptop, Intel Celeron N4020, 32GB RAM, 64 GB Storage, Windows 11 Home, Thin & Portable, 4K Graphics, One Year of Microsoft 365, Indigo Blue",?14,?,?64,?Intel HD Graphics 604,?HP,?Windows11Home,?Intel,?Royal Blue,?1366x768,
+102,Apple MacBook Air MD761LL/A 13.3-Inch Laptop (OLD VERSION) (Renewed),?13.3,?4,?256,?Intel HD Graphics 5000,?Apple,?MacOS,?Apple,?Silver,?1440p,?MacBook Air
+103,"HP Stream 14"" HD Display, Intel Celeron Dual-Core Processor, 8GB DDR4 Memory, 128GB Storage (64GB eMMC+64GB Card) HDMI WiFi Webcam Bluetooth 1-Year Microsoft 365 Win11S, Brilliant Black, NoCo Bundle",?14,?8,?64,?Intel HD Graphics 600,?HP,?Windows11Home,?Intel,?Brilliant Black,?1366x768,?HP Stream
+104,"HP 2022 Newest 17.3"" HD+ Display Laptop, 11th Gen Intel Core i3-1115G4(Up to 4.1GHz, Beat i5-1030G7), 16GB DDR4 RAM, 1TB HDD+256GB PCIe SSD, Bluetooth, Webcam, Windows 11, Silver, w/ 3in1 Accessories",?17.3,?16,?256,?Intel UHD Graphics,?HP,?Windows11,?Intel,?Natural Silver,?1600x900,?HP 17-cp0013dx Laptop
+105,"Dell Latitude E5580 15.6in Laptop, Core i5-7200U 2.6GHz, 16GB DDR4 RAM 512GB Solid State Drive, Webcam, Bluetooth, Windows 10 Pro 64bit (Renewed)",?15,?16,?16,?Intel HD Graphics 620,?Dell,?Windows10Pro,?Intel,?Black,?1366x768,?5580
+106,"Dell 2022 Newest Inspiron 15 3510 Laptop, 15.6"" HD Display, Intel Celeron N4020 Processor, 8GB DDR4 RAM, 256GB PCIe SSD, Webcam, HDMI, Wi-Fi, Bluetooth, Windows 11 Home, Black",?15.6,?8,?256,?Intel UHD Graphics,?Dell,?Windows11Home,?Intel,?Black,?1366x768,?Inspiron
+107,"HP EliteBook 745 G5 14” FHD, AMD Ryzen 5 Pro-2500U 2.0GHz, 16GB RAM, 256GB SSD, Windows 10 Pro 64Bit, CAM, (Renewed)",?14,?16,?16,,?HP,?Windows10Pro,?AMD,,?1920x1080,?HP EliteBook
+108,"Newest 15.6"" HD ThinLight Laptop Computer for Students and Business, 16GB RAM, 1TB SSD, 4-Core Intel Pentium Silver N5030, Numeric Keypad, Webcam, WiFi, USB-A&C, Windows 11, w/CUE Accessories",?15.6,?16,?1024,?Intel UHD Graphics 605,?HP,?Windows11Home,?Intel,,?1366x768,
+109,"Lenovo IdeaPad Gaming 3 Laptop, 15.6” 120 Hz FHD Display, AMD Ryzen 7 7735HS, NVIDIA GeForce RTX 4050, 32GB DDR5 RAM, 1TB SSD, Backlit KB, Wi-Fi 6, RJ-45, HDMI, Windows 11 Home, Grey",?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+110,"Lenovo 15.6"" IdeaPad 1 Laptop, 1TB SSD Storage, 20GB Memory, AMD Athlon Silver Processor, 15.6"" HD Display, Wi-Fi 6 & Bluetooth 5.1, SD Card Reader, HDMI, Windows 11 Home, 1 Year Microsoft 365",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+111,"Laptop Computer, 15.6 Inch 12GB RAM 512GB SSD Intel Quad-Core N4120 Windows 11 Laptop, 1080P Full HD IPS Display, 2.4/5G WiFi, Bluetooth 4.2, USB 3.0, Webcam, Expandable Up to 1TB",?15.6,?,?512,?Intel UHD Graphics 600,?WIPEMIK,?Windows11Pro,?Intel,,?1920x1080,
+112,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+113,"Dell Latitude 7410 14"" Notebook, Intel Core i7-10610U 1.7GHz, 16GB RAM, 256GB SSD, Windows 10 Pro, Renewed",?14,?,?256,?Intel UHD Graphics,?Dell,?Windows10Pro,?Intel,,?1920x1080,
+114,"Dell Vostro 3510 Business Laptop, 15.6"" FHD Computer, Intel Quad-Core i7-1165G7 up to 4.7GHz, 32GB DDR4 RAM, 1TB PCIe SSD, 802.11AC WiFi, Bluetooth, Carbon Black, Windows 11 Pro",?15.6,?32,?1024,?Intel UHD Graphics,?Dell,?Windows11Pro,?Intel,,?1920x1080,?Vostro
+115,"HP 15 Lightweight Laptop, 15.6'' FHD IPS Display, Intel Core i3-1215U, Intel UHD Graphics, 32GB RAM, 1TB PCIe SSD, 720p HD Camera, Win 11 Pro, Gray, 32GB Snow Bell USB Card",?15.6,?32,?1024,?Intel UHD Graphics,?HP,?Windows11Pro,?Intel,?Gray,?1920x1080,
+116,SAMSUNG (NP940Z5L-X01US 15.6-inch Notebook 9 Pro Intel i7 4K UHD Touchscreen Laptop Bundle with Elite Suite 18 Standard Editing Software Bundle and 1 YR CPS Enhanced Protection Pack,?15.6,?8,?256,?NVIDIA GeForce GTX 950M,?SAMSUNG,?Windows10,?Intel,,?3840x2160,?E1SAMNP940Z5LX01US
+117,"HP 15.6 HD Laptop for Business and Student, WLED-Backlit Display, AMD Ryzen 3 3250U(Up to 3.5GHz), 16GB RAM, 512GB SSD, Ethernet, WiFi, Fast Charge, Webcam, HDMI, Win10, w/GM Accessories",?15.6,?16SDRAM,?512,?AMD Radeon Graphics,?HP,?Windows10,?AMD,?Natural Silver,?1366x768,
+118,"ASUS VivoBook 14"" FHD 1080p Laptop, Intel Core i3-1115G4, 8GB RAM, 512GB PCIe SSD, Backlit Keyboard, HDMI, WiFi, Webcam, Windows 11 Home, Slate Grey",?14,?8SDRAM,?256,?Intel UHD Graphics,?ASUS,?Windows11,?Intel,?Grey,?1920x1080,?Vivobook
+119,"HP Premium Laptop (2021 Latest Model), 14"" HD Touchscreen, AMD Athlon Processor, 8GB RAM, 192GB SSD, Long Battery Life, Online Conferencing, Natural Silver, Win 10 with Microsoft 365 (Renewed)",?14,?8,?192,?AMD Radeon Graphics,?HP,?Windows10,?AMD,?Natural Silver,?1366x768,?Dell Precision
+120,"HP 2022 Newest 17.3"" HD+ Display Laptop, 11th Gen Intel Core i3-1115G4(Up to 4.1GHz, Beat i5-1030G7), 16GB DDR4 RAM, 1TB HDD+256GB PCIe SSD, Bluetooth, Webcam, Windows 11, Silver, w/ 3in1 Accessories",?17.3,?16,?256,?Intel UHD Graphics,?HP,?Windows11,?Intel,?Natural Silver,?1600x900,?HP 17-cp0013dx Laptop
+121,"Laptop Computer, 15.6 inch Windows 11 Laptop with 1920x1080 IPS Display, 12GB RAM/512 GB NVMe SSD, Intel N5095 Quad Core Notebook PC, Support 2.4G/5G Hz WiFi, BT, Type-c PD 3.0 Charging",?15.6,?4,?512,,?Coolby,?Windows11Pro,?Intel,,?1920x1080,?HealBook Pro
+122,"Laptop 15.6 FHD 16GB DDR4 512GB SSD, Intel Quad-Core 12th Alder Lake N95(Up to 3.4GHz) with Windows 11 Pro PC, Light Metal Laptop Computers Support 2.4G/5G WiFi, BT5.0, 2×Speaker, Mic, USB3.2",?15.6,?16,?512,?Intel UHD Graphics Up to 1200MHz,?ACEMAGIC,?Windows11Pro,?Intel,?Silver,?1920x1080,?AX15
+123,"Dell Latitude E5580 15.6in Laptop, Core i5-7200U 2.6GHz, 16GB DDR4 RAM 512GB Solid State Drive, Webcam, Bluetooth, Windows 10 Pro 64bit (Renewed)",?15,?16,?16,?Intel HD Graphics 620,?Dell,?Windows10Pro,?Intel,?Black,?1366x768,?5580
+124,"HP EliteBook 745 G5 14” FHD, AMD Ryzen 5 Pro-2500U 2.0GHz, 16GB RAM, 256GB SSD, Windows 10 Pro 64Bit, CAM, (Renewed)",?14,?16,?16,,?HP,?Windows10Pro,?AMD,,?1920x1080,?HP EliteBook
+125,"Lenovo ThinkPad P53s Laptop, 15.6"" Full HD (1920x1080), Intel Core i7-8665U, 32 GB DDR4 RAM, 512 GB NVMe SSD, Fingerprint, Backlit Keyboard, Nvidia Quadro P520 2GB, Windows 10 Pro(Renewed)",?15.6,?32,?512,?I7-8665U,?Lenovo,?Windows10Pro,?Intel,?I7-8665U,?1920x1080,?Lenovo ThinkPad
+126,"ASUS 2023 Newest Vivobook 15.6"" FHD Screen Laptop, Intel Core i5-1135G7 (Beats i7-1065G7), 12GB RAM, 512GB SSD, Webcam, HDMI, Wi-Fi, Windows 11 Home, KKE Accessories",?15.6,?12,?512,?Intel Iris Xe Graphics,?ASUS,?Windows11Home,?Intel,,?1920x1080,?F1500E
+127,"Dell 2022 Newest Inspiron 15 3510 Laptop, 15.6"" HD Display, Intel Celeron N4020 Processor, 8GB DDR4 RAM, 256GB PCIe SSD, Webcam, HDMI, Wi-Fi, Bluetooth, Windows 11 Home, Black",?15.6,?8,?256,?Intel UHD Graphics,?Dell,?Windows11Home,?Intel,?Black,?1366x768,?Inspiron
+128,"15.6 inch Laptop Notebook, 8GB RAM + 128GB ROM, Windows 10 Computer, Touchpad Gestures, WiFi, Bluetooth?Low Power Consumption, High Performance",?15.6,?,?,?Intel HD Graphics 400,?Generic,?Windows10Pro,?Intel,,?1366x768,?HCBABLAP
+129,"HP EliteBook 850 G3 15.6"" FHD Laptop, Core i7-6500U 2.5GHz, 16GB RAM, 1TB Solid State Drive, Windows 10 Pro 64Bit, (RENEWED)",?15.6,?16,?1000,?Intel HD Graphics,?HP,?Windows10Pro,?Intel,,?1920x1080,?HP EliteBook 850 G3
+130,"Dell G15 15.6"" 240Hz WQHD (2560 x 1440) 2023 New ~ Intel i9-12900H 14-Core ~ NVIDIA GeForce RTX 3070 Ti 8GB~ Backlit Keyboard ~ Thunderbolt 4~64GB DDR5 2TB SSD ~ Win11 Pro WWC 32GB USB",?15.6,?64,?2048,?NVIDIA GeForce RTX 3070 Ti,?Dell,?Windows11Pro,?Intel,?Obsidian Black,?2560x1440,?G15 5521
+131,"Lenovo IdeaPad Gaming 3 Laptop, 15.6” 120 Hz FHD Display, AMD Ryzen 7 7735HS, NVIDIA GeForce RTX 4050, 32GB DDR5 RAM, 1TB SSD, Backlit KB, Wi-Fi 6, RJ-45, HDMI, Windows 11 Home, Grey",?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+132,"14-inch Windows 11 Laptop, 12GB RAM, 256GB NVMe SSD, up to 2100MB/S, FHD IPS Display, Intel Celeron N5095 Quad Core, 5G WiFi, BT4.2, Type C and Camera Cover, Lightweight and Portable",?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+133,LG Gram (2022) 16Z90Q Ultra Lightweight ,?16,?16,?1024,?NVIDIA GeForce RTX 2050,?LG,?Windows11Home,?Intel,?Gray,?2560x1600,?16Z90Q-R.AAS8U1
+134," Computer, 15.6 Inch 12GB RAM 512GB SSD Intel Quad-Core N4120 Windows 11 ",?15.6,?,?512,?Intel UHD Graphics 600,?WIPEMIK,?Windows11Pro,?Intel,,?1920x1080,
+135,"Dell Precision 3530 15.6 FHD Core i5-8300H 2.3GHz, 32GB RAM, 512GB SSD, Windows 10 Pro 64Bit, CAM (Renewed)",?15.6,?32,?512,?NVIDIA Quadro P600,?Dell,?Windows10,?Intel,?Black,?1920x1080,?Dell Precision
+136,"acer 2023 Newest Chromebook 17.3"" FHD IPS Touchscreen Light ",?17.3,?8,?64,?Intel UHD Graphics,?Acer,?ChromeOS,?Intel,?Titanium Gray,?1920x1080,?2023 Newest Acer 17 Inch Chromebook
+137,2023 Flagship 17 ,?17.3,?20,?1024,?Intel Iris Xe Graphics,?HP,?Windows11Home,?Intel,?Silver,?1920x1080,??HP Flagship 17 Laptop
+138,"Dell Latitude 7490 14"" HD Anti-Glare, Intel Core i5-8350U, 8GB DDR4, 256GB Solid State Drive, Webcam, Bluetooth, Windows 10Pro (Renewed)",?14,?,?256,?Intel HD Graphics 620,?DellComputers,?Windows10Pro,?Intel,,?1920x1080,?Latitude
+139,2021 Newest HP Premium 14-inch HD ,?14,?8,?64,?Intel UHD Graphics,?HP,?Windows10,?Intel,?White,?1366x768,?Premium
+140,Dell Latitude 3120 ,?11.6,?4,?128,?Intel UHD Graphics,?Dell,?Windows10Pro,?Intel,?Silver,?1366x768,?Dell Latitude 3120 Laptop
+141,Lenovo X250 12.5 inch HD ,?12.5,?8,?256,?Core i7-5600U,?Lenovo,?Windows10Pro,?Intel,,?1366x768,
+142,"2022 HP 15.6"" FHD ",?15.6,?16,?256,?AMD Radeon Graphics,?HP,?Windows11Home,?AMD,?Blue,?1920x1080,?AMD Ryzen 5
+143," Computer, 15.6 inch Windows 11 ",?15.6,?4,?512,,?Coolby,?Windows11Pro,?Intel,,?1920x1080,?HealBook Pro
+144," 15.6 FHD 16GB DDR4 512GB SSD, Intel Quad-Core 12th Alder Lake N95(Up to 3.4GHz) with Windows 11 Pro PC, Light Metal ",?15.6,?16,?512,?Intel UHD Graphics Up to 1200MHz,?ACEMAGIC,?Windows11Pro,?Intel,?Silver,?1920x1080,?AX15
+145,HP 2023 Newest 17 ,?17.3,?16,?1024,?Intel UHD Graphics,?HP,?Windows11S,?Intel,?Silver,?1600x900,?HP Laptop
+146,"Lenovo Thinkpad X1 Yoga 3rd Gen 20LD001GUS 14in FHD (1920x1080) Touchscreen 2-in-1 Ultrabook - Intel Core i5-8250U Processor, 8GB RAM, 256GB PCIe SSD, Windows 10 Pro (Renewed)",?14,?8,?,?Intel UHD Graphics 620,?Lenovo,?Windows10Pro,?Intel,,?1920x1080,?Lenovo Thinkpad
+147,"HP Newest 14"" HD Light Thin ",?14,?8,?64,?Intel UHD Graphics 600,?HP,?Windows11Home,?Intel,?Rose Gold,?1366x768,?Newest HP 14 Inch Laptop
+148,"HP 2022 15.6"" HD BrightView ",?15.6,?16,?512,?Intel HD Graphics 605,?HP,?Windows11Home,?Intel,?Blue,?1366x768,
+149,HP 15.6” HD Student ,?15.6,?16,?1024,?Intel HD Graphics 605,?HP,?Windows11,?Intel,?Blue,?1366x768,?HP
+150,Lenovo IdeaPad 3i Business and Student Essential ,?14,?1024,?1024,?Intel UHD Graphics,?Lenovo,?Windows11S,?Intel,?Gray,?1920x1080,?Ideapad 3i
+151,"HP 17.3"" HD+ Home & Business ",?17.3,?16,?512,?Intel Iris Xe Graphics,?HP,?Windows10Home,?Intel,?Silver,?1600x900,?HP Laptop
+152,Dell Chromebook 11 3180 83C80 11.6-Inch Traditional ,?11.6,?4,?16,?Intel HD Graphics 400,?Dell,?ChromeOS,?Intel,?Black,?1366x768,?Chromebook 11 3180
+153,Lenovo IdeaPad Gaming 3 ,?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+154,14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+155," Computer, 15.6 Inch 12GB RAM 512GB SSD Intel Quad-Core N4120 Windows 11 ",?15.6,?,?512,?Intel UHD Graphics 600,?WIPEMIK,?Windows11Pro,?Intel,,?1920x1080,
+156,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+157,Dell Latitude 3120 ,?11.6,?4,?128,?Intel UHD Graphics,?Dell,?Windows10Pro,?Intel,?Silver,?1366x768,?Dell Latitude 3120 Laptop
+158,"Lenovo ThinkPad L570 15.6"" ",?15.6,?4,?,?Intel HD Graphics 520,?Lenovo,?Windows7Professional,?Intel,,?1366x768,?Lenovo Thinkpad
+159,Dell XPS 9315 ,?13,?,?1024,?Intel Iris Xe Graphics,?Dell,?Windows11,?Intel,?Silver,1920x1200,?Dell XPS 9315 Laptop
+160,Dell Latitude 7420 Business ,?14,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows10Pro,?Intel,?Black,?1920x1080,?Latitude
+161,SERYUB 16 Inch ,?16,?12,?256,?UHD,?SERYUB,?ChromeOS,?Intel,?Silver,?1920x1200,?N5095
+162,"HP 15.6"" ",?15.6,?,?128,?Intel UHD Graphics,?HP,?Windows11S,?Intel,?Black,?1366x768,?HP Laptop
+163,"HP EliteBook 850 G3 15.6"" FHD ",?15.6,?16,?1000,?Intel HD Graphics,?HP,?Windows10Pro,?Intel,,?1920x1080,?HP EliteBook 850 G3
+164,"Lenovo 2022 Newest Ideapad 3 14"" FHD ",?14,?4,?1024,?Intel Iris Xe Graphics,?Lenovo,?Windows11Home,?Intel,?Arctic Grey,?1920x1080,?Lenovo IdeaPad 3
+165," Computer, 15.6 inch Windows 11 ",?15.6,?4,?512,,?Coolby,?Windows11Pro,?Intel,,?1920x1080,?HealBook Pro
+166," 15.6 FHD 16GB DDR4 512GB SSD, Intel Quad-Core 12th Alder Lake N95(Up to 3.4GHz) with Windows 11 Pro PC, Light Metal ",?15.6,?16,?512,?Intel UHD Graphics Up to 1200MHz,?ACEMAGIC,?Windows11Pro,?Intel,?Silver,?1920x1080,?AX15
+167,ASUS 2023 Newest Vivobook Go 15 L510 Thin & Light ,?15.6,?12,?320,?Intel UHD Graphics 600,?ASUS,?Windows11S,?Intel,?Star Black,?1920x1080,?ASUS Vivobook Go 15
+168,acer Aspire 5 Slim ,?15.6,?,?1024,?AMD Radeon Vega 6,?Acer,?Windows11Home,?AMD,,?1920x1080,?Acer
+169,"Gateway 14.1"" FHD ",?14.1,?,?512,?Intel,?Gateway,?Windows11,?Intel,?Black,?1920x1080,?GWTN141
+170,"Apple MacBook Air 13"" (Mid 2013) - Core i5 1.3GHz, 4GB RAM, 128GB SSD (Renewed)",?13.3,?4,?128,?Intel HD Graphics 5000,?Apple,?MacOS,?Intel,?Silver,?2048x1536,?MacBook Air
+171,"HP 2023 15.6"" HD ",?15.6,?8,?512,?Intel UHD Graphics,?HP,?Windows10Home,?Intel,?Red,?1366x768,?9VV89UA
+172,2019 Dell Precision 7740 ,?17.3,?64,?512,?NVIDIA Quadro P3200,?Dell,?Windows10Pro,?Intel,?Aluminum,?1920x1080,?Precision 7740 Laptop
+173,"2022 HP 15.6"" FHD ",?15.6,?16,?256,?AMD Radeon Graphics,?HP,?Windows11Home,?AMD,?Blue,?1920x1080,?AMD Ryzen 5
+174,Lenovo IdeaPad Gaming 3 ,?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+175,14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+176,WIPEMIK ,?15.6,?,?512,?Intel UHD Graphics 600,?WIPEMIK,?Windows11Pro,?Intel,,?1920x1080,
+177,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+178,"Lenovo 2022 Newest Ideapad 3 14"" FHD ",?14,?4,?1024,?Intel Iris Xe Graphics,?Lenovo,?Windows11Home,?Intel,?Arctic Grey,?1920x1080,?Lenovo IdeaPad 3
+179,"Apple MacBook Air 13"" (Mid 2013) - Core i5 1.3GHz, 4GB RAM, 128GB SSD (Renewed)",?13.3,?4,?128,?Intel HD Graphics 5000,?Apple,?MacOS,?Intel,?Silver,?2048x1536,?MacBook Air
+180,HP 17 ,?17.3,?,?1024,?Intel Iris Xe Graphics,?HP,?Windows11Home,?Intel,?Black,?1920x1080,?HP Laptop 17-cn2047nr
+181,HP 2022 Stream 11 ,?11.6,?32,?64,?Integrated Graphics,?HP,?ChromeOS,?Intel,?Diamond White,?1366x768,?Chromebook
+182,"Dell Chromebook 3120 XDGJH - CRM3120-333BLK (11.6"", Intel Celeron N2840 2.16GHz, 4GB RAM, 16GB SSD, Chromebook OS)",?11.6,?4,?16,?Intel HD Graphics,?Dell,?ChromeOS,?Intel,?Black,?1366x768,?Chromebook 11
+183,"Lenovo Ideapad 3 15.6"" Touch Screen ",?15.6,?12,?256,,?Lenovo,??Windows11HomeinSMode,?AMD,,?1920x1080,?Lenovo Ideapad
+184,Lenovo Newest IdeaPad ,?14,?128,?128,?Intel UHD Graphics,?Lenovo,?Windows11S,?Intel,?Cloud Grey,?1366x768,?Lenovo - Ideapad 1i
+185,2022 HP High Performance Business ,?17.3,?16,?512,?AMD Radeon Graphics,?HP,?Windows10Pro,?Intel,?Silver,?1600x900,?17-CN0000
+186,Coolby ,?15.6,?4,?512,,?Coolby,?Windows11Pro,?Intel,,?1920x1080,?HealBook Pro
+187,ACEMAGIC ,?15.6,?16,?512,?Intel UHD Graphics Up to 1200MHz,?ACEMAGIC,?Windows11Pro,?Intel,?Silver,?1920x1080,?AX15
+188,"Gateway 14.1"" FHD ",?14.1,?,?512,?Intel,?Gateway,?Windows11,?Intel,?Black,?1920x1080,?GWTN141
+189,"Lenovo ThinkPad L570 15.6"" ",?15.6,?4,?,?Intel HD Graphics 520,?Lenovo,?Windows7Professional,?Intel,,?1366x768,?Lenovo Thinkpad
+190,DELL Latitude E6440 14in ,?14,?8,?256,?Intel HD Graphics 4400,?Dell,?Windows10Pro,?Intel,?Silver,?1366x768,?Latitude E6440
+191,Dell Latitude 7420 Business ,?14,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows10Pro,?Intel,?Black,?1920x1080,?Latitude
+192,"Lenovo ThinkPad L460 14.0"" ",?14,?,?256,?Celeron,?Lenovo,?Windows10,?Intel,?Black,?1920x1080,?L460
+193,"HP Stream 14"" Pink ",?14,?4,?64,?Intel HD Graphics 600,?HP,?Windows11S,?Intel,?Rose Gold,?1366x768,?HP 14 Stream
+194,Dell Inspiron 3000 Business ,?15.6,?8,?256,?Intel UHD Graphics,?Dell,?Windows11Pro,?Intel,?8GB RAM | 256GB SSD,?1366x768,?Inspiron
+195,"HP 14"" Touchscreen Thin and Light ",?14,?,?1024,?AMD Radeon Graphics,?HP,?Windows11Home,?AMD,?16GB RAM | 1TB PCIe SSD,?1366x768,?HP
+196,Lenovo IdeaPad Gaming 3 ,?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+197,BiTECOOL 14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+198,WIPEMIK ,?15.6,?,?512,?Intel UHD Graphics 600,?WIPEMIK,?Windows11Pro,?Intel,,?1920x1080,
+199,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+200,"Lenovo IdeaPad 5 15IAL7 15.6"" FHD ",?15.6,?16,?512,?NVIDIA,?Lenovo,"?English,Windows11Home",?Intel,,?1920x1080,
+201,2021 Newest Dell Inspiron 3000 ,?15.6,?8,?128,?Intel UHD Graphics,?Dell,?Windows10,?Intel,?Black,?1366x768,?Dell Inspiron
+202,HP Pavilion ,?14,?16,?512,?Intel UHD Graphics 605,?HP,?Windows11,?Intel,?Black,?1366x768,?Pavilion
+203,acer Aspire 5 Slim ,?15.6,?,?1024,?AMD Radeon Vega 6,?acer,?Windows11Home,?AMD,,?1920x1080,?Acer
+204,HP 2023 Newest ,?15.6,?16,?512,?AMD Radeon Graphics,?HP,?Windows11Home,?AMD,?Black,?1920x1080,?TPN-Q287
+205,"Newest HP 14"" HD Premium Business ",?14,?8,?256,,?HP,?Windows10,?Intel,,?1366x768,
+206,Acer Nitro Gaming ,?17.3,?,?2048,?NVIDIA GeForce RTX 3050,?acer,?Windows11Home,?Intel,,?1920x1080,
+207,"Lenovo 2022 Ideapad 1i 14.0"" HD ",?14,?4,?512,?Intel HD Graphics,?Lenovo,?Windows11S,?Intel,?Gray,?1366x768,
+208,Coolby ,?15.6,?4,?512,,?Coolby,?Windows11Pro,?Intel,,?1920x1080,?HealBook Pro
+209,Lenovo IdeaPad Gaming 3 ,?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+210,"Gateway Ultra Slim Notebook, 14.1"" Touchscreen IPS FHD, 12th Gen Intel Core i7-1255U Quad-Core, 8GB RAM, 256GB SSD, Fingerprint Scanner, Webcam, WiFi 6, USB-C, HDMI, Win11 pro",?14.1,?8,?256,?Intel(R) UHD Graphics,?Gateway,?Windows11Pro,?Intel,?Black,?1920x1080,
+211,"Dell Latitude 7420 14"" Intel Core i5-1145G7 256GB PCIe SSD 16GB FHD (1920X1080) am Win 11 Pro(Renewed)",?14.1,?,?256,?Intel HD Graphics 620,?Dell,?Windows11Pro,?Intel,,?1920x1080,?Dell latitude
+212,Lenovo IdeaPad 3 ,?15.6,?36,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11Pro,?AMD,?Gray,?1920x1080,?IdeaPad 3 15ALC6
+213,Lenovo Chromebook S330 14in ,?14,?4,?32,?Integrated MediaTekTM Graphics,?Lenovo,?ChromeOS,?Intel,?Black,?1366x768,?S330
+214,Acer Aspire 15.6” ,?15.6,?20,?1024,?Intel UHD Graphics,?acer,?Windows11S,?Intel,?Silver,?1920x1080,?Acer Aspire
+215,ASUS 2023 TUF FA706 Gaming ,?17.3,?8,?512,?NVIDIA GeForce GTX 1650,?ASUS,?Windows11Home,?Intel,?Black,?1920x1080,?FA706IH
+216,"Dell WYDRD Mobile Workstation - Precision 7520 15.6"" LCD Intel Core i7 (7th Gen) i7 7820HQ Quad (4 Core) 2.90 GHz 16 GB DDR4 SDRAM 512 GB SSD Windows 10 Pro 64 bit English/ (Renewed)",?15.6,?16,?,?Intel,?Dell,?Windows10Pro,?Intel,,?1366x768,?Dell Precision
+217,Lenovo 2023 Newest Ideapad 14 Inch Student ,?14,?4,?128KB,?Intel UHD Graphics,?Lenovo,?Windows11,?Intel,,?1366x768,
+218,ACEMAGIC ,?15.6,?16,?512,?Intel UHD Graphics Up to 1200MHz,?ACEMAGIC,?Windows11Pro,?Intel,?Silver,?1920x1080,?AX15
+219,BiTECOOL 14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+220,"WIPEMIK Laptop Computer, 15.6 Inch 12GB RAM 512GB SSD Intel Quad-Core N4120 Windows 11 Laptop, 1080P Full HD IPS Display, 2.4/5G WiFi, Bluetooth 4.2, USB 3.0, Webcam, Expandable Up to 1TB",?15.6,?,?512,?Intel UHD Graphics 600,?WIPEMIK,?Windows11Pro,?Intel,,?1920x1080,
+221,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+222,"Microsoft Surface Book (512 GB, 16 GB RAM, Intel Core i7, NVIDIA GeForce graphics) (Renewed)",?13.5,?16,?512,?NVIDIA GeForce 1GB,?Microsoft,?Windows10,?Intel,?Silver,?3840x2160,?Sw6
+223,"HP Pavilion 15-P051US 15.6"" Touchscreen Laptop, AMD A10-5745M Quad-Core 2.1GHz, 8GB DDR3, 750GB SATA, 802.11n, Bluetooth, Win8.1 - Silver, Silver, 15.6""",?15.6,?8,?750,?AMD Radeon HD 8610G,?HP,?Windows8,?AMD,?Silver,?1366x768,?HP 15-P051US
+224,2022 HP 15.6'' HD Touchscreen Laptop AMD 2-Core Ryzen 3 3250U (Beat i3-1115G4) 8GB DDR4 RAM 128GB M.2 SSD AMD Radeon 8GB | 128GB SSD HP-15-EF1023DX HP-15-EF1023DX,?15.6,?8,?128,?AMD Radeon Graphics,?HP,?Windows10Home,?AMD,?Silver,?1366x768,?HP-15-EF1023DX
+225,"HP 2022 14"" HD Touchscreen Laptop, 11th Gen Intel Core i3-1115G4, 16GB RAM, 256GB PCIe SSD, Intel UHD Graphics, HD Webcam, Windows 11 S, Silver, 32GB Snowbell USB Card",?14,?16,?256,?Intel UHD Graphics,?HP,?Windows11S,?Intel,?Silver,?1366x768,
+226,"HP 2023 Newest Laptop, 15.6"" Touchscreen Display, Intel i3-1115G4 Processor, 32GB RAM, 2TB SSD, 11 H Battery Life, Fast Charge, Bluetooth, Wi-Fi, HDMI, Thin & Portable, Windows 11 Home in S Mode",?15.6,?,?2048,?Intel UHD Graphics,?HP,?Windows11S,?Intel,?Silver,?1366x768,?HP Touchscreen Laptop
+227,"Apple MacBook Air 13-inch Laptop 1.6GHz Core i5, MJVE2LL/A, 4GB RAM, 256GB SSD (Renewed)",?13.3,?4,?256,?Intel HD Graphics 6000,?Apple,?macOS10.12Sierra,?Intel,,?1440x900,
+228,HP 2021 15.6'' HD Laptop PC AMD Dual-Core Ryzen 3 3250U 4GB DDR4 128GB SSD + 1TB HDD AMD Radeon Graphics USB-C HDMI WiFi AC RJ45 Bluetooth Webcam Fast Charge Windows 10 Home,?15.6,?4,?1024,?AMD Radeon Graphics,?HP,?Windows10Home,?AMD,,?1366x768,?1A1L3UA
+229,"2022 HP 14"" HD IPS Laptop, Windows 11 OS, Intel Pentium Quad-Core Processor Up to 3.0GHz, 4GB RAM, 128GB SSD, 4K Graphics, Dale Black(Renewed)",?14,?4,?128,,?HP,?Windows11,?Intel,?Dale Black,?3840x2160,"?HP 14"" Laptop"
+230,"Coolby Laptop Computer, 15.6 inch Windows 11 Laptop with 1920x1080 IPS Display, 12GB RAM/512 GB NVMe SSD, Intel N5095 Quad Core Notebook PC, Support 2.4G/5G Hz WiFi, BT, Type-c PD 3.0 Charging",?15.6,?4,?512,,?Coolby,?Windows11Pro,?Intel,,?1920x1080,?HealBook Pro
+231,"ACEMAGIC Laptop 15.6 FHD 16GB DDR4 512GB SSD, Intel Quad-Core 12th Alder Lake N95(Up to 3.4GHz) with Windows 11 Pro PC, Light Metal Laptop Computers Support 2.4G/5G WiFi, BT5.0, 2×Speaker, Mic, USB3.2",?15.6,?16,?512,?Intel UHD Graphics Up to 1200MHz,?ACEMAGIC,?Windows11Pro,?Intel,?Silver,?1920x1080,?AX15
+232,Dell Latitude E5570 Business Laptop - 15.6in FHD Display - Intel i7-6820HQ 2.7Ghz - 16GB RAM - 512GB SSD - WIFI - HDMI - Windows 10 Pro - AMD Radeon R7 Video Card (Renewed),?15.6,?16,?512,?AMD Radeon R7,?Dell,?Windows10Pro,?Intel,?Black,?1366x768,?Dell Latitude
+233,"HP 2023 Newest Laptop, 17.3 Inch Display, Intel Core i3-1125G4 Processor, 32GB RAM, 1TB SSD, Intel UHD Graphics, Bluetooth, Webcam, Windows 11 Home in S Mode",?17.3,?32,?1024,?Intel UHD Graphics,?HP,?Windows11S,?Intel,?Silver,?1600x900,?HP Laptop
+234,"Lenovo 14"" FHD Ideapad 3 Newest Laptop, 12GB RAM, 512GB PCIe SSD,Intel Dual Core Processor(Up to 4.1GHz), WiFi, Webcam, Bluetooth, HDMI, Windows 11 +Accessories",?14,?,?512,?Intel UHD Graphics,?Lenovo,?Windows11S,?Intel,,?1920x1080,?lenovo i3
+235,ASUS 2023 TUF FA706 Gaming Laptop 17.3” 144Hz FHD IPS Display AMD 6-Core Ryzen 5 4600H 8GB DDR4 512GB NVMe SSD NVIDIA GeForce GTX 1650 4GB GDDR6 WiFi AC RJ45 USB-C RGB KB Windows 11 w/USB,?17.3,?8,?512,?NVIDIA GeForce GTX 1650,?ASUS,?Windows11Home,?Intel,?Black,?1920x1080,?FA706IH
+236,"Dell Chromebook 11-3180 Intel Celeron N3060 X2 1.6GHz 4GB 32GB, Black (Certified Refurbished)",?11.6,?4,?32,?Intel HD Graphics,?Dell,?ChromeOS,?Intel,,?1366x768,
+237,"ASUS VivoBook Pro 14 OLED Business Laptop 14"" WQGXA 2.8K OLED NanoEdge (400nits 100% DCI-P3) Intel Quad-Core i5-11300H 8GB RAM 256GB SSD Backlit USB-C Thunderbolt Harman/kardon Win10 Gray + HDMI Cable",?14,?,?256,?Intel Iris Xe Graphics,?ASUS,?Windows10,?Intel,,?2880x1800,?ASUS VivoBook Pro 14 OLED Laptop
+238,"Lenovo ThinkPad P53 Workstation Laptop, Intel Core i7-9750, 16GB RAM, 512GB, 15.6 ""FHD 1920x1080, NVIDIA Quadro T1000 4GB, Backlit Keyboard, Fingerprint, Windows 10 Pro (Renewed)",?15.6,?16,?512,?Intel Core i7-9750,?Lenovo,?Windows10Pro,?Intel,,?1920x1080,?Lenovo ThinkPad P53 Workstation Laptop
+239,"HP 2023 Newest Laptop, 15.6"" FHD Display, AMD Ryzen 5 7530U Processor (Beats i7-1165G7), 16GB RAM, 512GB SSD, Webcam, HDMI, Wi-Fi 6, Windows 11 Home, Black, KKE Accessories",?15.6,?16,?512,?AMD Radeon Graphics,?HP,?Windows11Home,?AMD,?Black,?1920x1080,?TPN-Q287
+240,"Lenovo IdeaPad Gaming 3 Laptop, 15.6” 120 Hz FHD Display, AMD Ryzen 7 7735HS, NVIDIA GeForce RTX 4050, 32GB DDR5 RAM, 1TB SSD, Backlit KB, Wi-Fi 6, RJ-45, HDMI, Windows 11 Home, Grey",?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+241,"BiTECOOL 14-inch Windows 11 Laptop, 12GB RAM, 256GB NVMe SSD, up to 2100MB/S, FHD IPS Display, Intel Celeron N5095 Quad Core, 5G WiFi, BT4.2, Type C and Camera Cover, Lightweight and Portable",?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+242,WIPEMIK ,?15.6,?,?512,?Intel UHD Graphics 600,?WIPEMIK,?Windows11Pro,?Intel,,?1920x1080,
+243,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+244,"Dell WYDRD Mobile Workstation - Precision 7520 15.6"" LCD Intel Core i7 (7th Gen) i7 7820HQ Quad (4 Core) 2.90 GHz 16 GB DDR4 SDRAM 512 GB SSD Windows 10 Pro 64 bit English/ (Renewed)",?15.6,?16,?,?Intel,?Dell,?Windows10Pro,?Intel,,?1366x768,?Dell Precision
+245,"Lenovo ThinkPad T490S 14-inch FHD IPS Touchscreen Notebook - Intel Core i7-8665U 1.9GHz - 16GB RAM 512GB PCIe SSD - Fingerprint Reader - Backlit Keyboard - Windows 10 Pro, Black (Renewed)",?14,?16,?512,?Intel HD Graphics 520,?Lenovo,?Windows10Pro,?Intel,?Black,?1920x1080,?20NXS2U500
+246,Lenovo Thinkpad Yoga 260 2-in-1 Business ,?12.5,?8,?256,?Intel HD Graphics 520,?Lenovo,?Windows10Pro,?Intel,,?1366x768,?YOGA 260
+247,"2022 Newest HP 15.6"" FHD 1080P IPS Display ",?15.6,?12,?256,?Intel UHD Graphics,?HP,?Windows10S,?Intel,?Silver,?1920x1080,?HP 15 i3 LAPTOP
+248,Lenovo IdeaPad 5i ,?15.6,?,?1024,?Intel Iris Xe Graphics,?Lenovo,?Windows11Pro,?Intel,?Gray,?1920x1080,?Lenovo IdeaPad
+249,Acer Aspire 15.6” ,?15.6,?20,?1024,?Intel UHD Graphics,?acer,?Windows11S,?Intel,?Silver,?1920x1080,?Acer Aspire
+250,HP ,?17.3,?32,?2048,?Intel Iris Xe Graphics,?HP,?Windows11Home,?Intel,?Silver,?1600x900,?TPN-I139_4V788AV
+251,Gigabyte AERO 15-X9-RT5W Thin+Light Performance ,?15.6,?16,?1024NoHardDisk,?NVIDIA GeForce RTX 2070,?Gigabyte,?Windows10Home,?Intel,"?15.6"" | AERO 15 OLED | 2019",?1920x1080,?AERO 15-X9-RT5W
+252,Coolby ,?15.6,?4,?512,,?Coolby,?Windows11Pro,?Intel,,?1920x1080,?HealBook Pro
+253,ACEMAGIC ,?15.6,?16,?512,?Intel UHD Graphics Up to 1200MHz,?ACEMAGIC,?Windows11Pro,?Intel,?Silver,?1920x1080,?AX15
+254,LG gram Style 16” OLED ,?16,?,?1024,,?LG,?Windows11Home,?Intel,?White,?3840x2160,?16Z90RS-K.ADW8U1
+255,Win 11 Pro Double -Screen ,?15.6,?16,?512,,?ZWYING,?Windows11Pro,?Intel,?Silver,?1920x1080,
+256,Tocosy ,?10.1,?2,?32,?Intel,?Tocosy,?Windows10,?Intel,?White,?1280x800,?Laptop
+257,HP Newest 2023 15 ,?15.6,?12,?512,?Intel UHD Graphics,?HP,?Windows11Home,?Intel,?Fairydust,?1366x768,?TPN-Q222_2D1**AV
+258,Lenovo IdeaPad 1 Silver Slim ,?14,?4,?128,,?Lenovo,?Windows11,?Intel,,?1920x1080,?IdeaPad
+259,"Acer 2022 Convertible 2-in-1 Chromebook-14inch Frameless FHD IPS Touchscreen, Ryzen 3 Up to 3.35GHz, 4GB Ram, 64GB SSD, Backlit Keyboard, 6th Gen WiFi, Metal Chassis, Chrome OS(Renewed) (Dale Silver)",?14,?4,?64,,?acer,?ChromeOS,?AMD,?Dale Silver,?1920x1080,"?Acer 14"" Convertible Chromebook"
+260,"Acer Aspire 3 17.3"" FHD IPS High Performance ",?17.3,?,?512,,?acer,?Windows10Home,?Intel,,?1920x1080,
+261,DELL Precision M5520 Workstation ,?15.6,?32,?512,,?Dell,?Windows10Pro,?Intel,,?3840x2160,?Precision 5520
+262,Lenovo IdeaPad Gaming 3 ,?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+263,BiTECOOL 14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+264,WIPEMIK ,?15.6,?,?512,?Intel UHD Graphics 600,?WIPEMIK,?Windows11Pro,?Intel,,?1920x1080,
+265,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+266,"Acer Aspire 3 17.3"" FHD IPS High Performance ",?17.3,?,?512,,?Acer,?Windows10Home,?Intel,,?1920x1080,
+267,DELL Precision M5520 Workstation ,?15.6,?32,?512,,?Dell,?Windows10Pro,?Intel,,?3840x2160,?Precision 5520
+268,Coolby ,?15.6,?4,?512,,?Coolby,?Windows11Pro,?Intel,,?1920x1080,?HealBook Pro
+269,ACEMAGIC ,?15.6,?16,?512,?Intel UHD Graphics Up to 1200MHz,?ACEMAGIC,?Windows11Pro,?Intel,?Silver,?1920x1080,?AX15
+270,Lenovo IdeaPad Gaming 3 ,?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+271,"Lenovo 15.6"" IdeaPad 1 ",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+272,"Laptop Computer, 15.6 Inch 12GB RAM 512GB SSD Intel Quad-Core N4120 Windows 11 Laptop, 1080P Full HD IPS Display, 2.4/5G WiFi, Bluetooth 4.2, USB 3.0, Webcam, Expandable Up to 1TB",?15.6,?,?512,?Intel UHD Graphics 600,?WIPEMIK,?Windows11Pro,?Intel,,?1920x1080,
+273,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+274,"Laptop Computer, 15.6 inch Windows 11 Laptop with 1920x1080 IPS Display, 12GB RAM/512 GB NVMe SSD, Intel N5095 Quad Core Notebook PC, Support 2.4G/5G Hz WiFi, BT, Type-c PD 3.0 Charging",?15.6,?4,?512,,?Coolby,?Windows11Pro,?Intel,,?1920x1080,?HealBook Pro
+275,"Laptop 15.6 FHD 16GB DDR4 512GB SSD, Intel Quad-Core 12th Alder Lake N95(Up to 3.4GHz) with Windows 11 Pro PC, Light Metal Laptop Computers Support 2.4G/5G WiFi, BT5.0, 2×Speaker, Mic, USB3.2",?15.6,?16,?512,?Intel UHD Graphics Up to 1200MHz,?ACEMAGIC,?Windows11Pro,?Intel,?Silver,?1920x1080,?AX15
+276,"Lenovo IdeaPad Gaming 3 Laptop, 15.6” 120 Hz FHD Display, AMD Ryzen 7 7735HS, NVIDIA GeForce RTX 4050, 32GB DDR5 RAM, 1TB SSD, Backlit KB, Wi-Fi 6, RJ-45, HDMI, Windows 11 Home, Grey",?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+277,"14-inch Windows 11 Laptop, 12GB RAM, 256GB NVMe SSD, up to 2100MB/S, FHD IPS Display, Intel Celeron N5095 Quad Core, 5G WiFi, BT4.2, Type C and Camera Cover, Lightweight and Portable",?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+278," Computer, 15.6 Inch 12GB RAM 512GB SSD Intel Quad-Core N4120 Windows 11 ",?15.6,?,?512,?Intel UHD Graphics 600,?WIPEMIK,?Windows11Pro,?Intel,,?1920x1080,
+279,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+280," Computer, 15.6 inch Windows 11 ",?15.6,?4,?512,,?Coolby,?Windows11Pro,?Intel,,?1920x1080,?HealBook Pro
+281," 15.6 FHD 16GB DDR4 512GB SSD, Intel Quad-Core 12th Alder Lake N95(Up to 3.4GHz) with Windows 11 Pro PC, Light Metal ",?15.6,?16,?512,?Intel UHD Graphics Up to 1200MHz,?ACEMAGIC,?Windows11Pro,?Intel,?Silver,?1920x1080,?AX15
+282,Lenovo IdeaPad Gaming 3 ,?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+283,14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+284," Computer, 15.6 Inch 12GB RAM 512GB SSD Intel Quad-Core N4120 Windows 11 ",?15.6,?,?512,?Intel UHD Graphics 600,?WIPEMIK,?Windows11Pro,?Intel,,?1920x1080,
+285,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+286," Computer, 15.6 inch Windows 11 ",?15.6,?4,?512,,?Coolby,?Windows11Pro,?Intel,,?1920x1080,?HealBook Pro
+287," 15.6 FHD 16GB DDR4 512GB SSD, Intel Quad-Core 12th Alder Lake N95(Up to 3.4GHz) with Windows 11 Pro PC, Light Metal ",?15.6,?16,?512,?Intel UHD Graphics Up to 1200MHz,?ACEMAGIC,?Windows11Pro,?Intel,?Silver,?1920x1080,?AX15
+288,Lenovo IdeaPad Gaming 3 ,?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+289,14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+290," Computer, 15.6 Inch 12GB RAM 512GB SSD Intel Quad-Core N4120 Windows 11 ",?15.6,?,?512,?Intel UHD Graphics 600,?WIPEMIK,?Windows11Pro,?Intel,,?1920x1080,
+291,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+292," Computer, 15.6 inch Windows 11 ",?15.6,?4,?512,,?Coolby,?Windows11Pro,?Intel,,?1920x1080,?HealBook Pro
+293," 15.6 FHD 16GB DDR4 512GB SSD, Intel Quad-Core 12th Alder Lake N95(Up to 3.4GHz) with Windows 11 Pro PC, Light Metal ",?15.6,?16,?512,?Intel UHD Graphics Up to 1200MHz,?ACEMAGIC,?Windows11Pro,?Intel,?Silver,?1920x1080,?AX15
+294,14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+295,"Lenovo 15.6"" IdeaPad 1 ",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+296," Computer, 15.6 Inch 12GB RAM 512GB SSD Intel Quad-Core N4120 Windows 11 ",?15.6,?,?512,?Intel UHD Graphics 600,?WIPEMIK,?Windows11Pro,?Intel,,?1920x1080,
+297,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+298," Computer, 15.6 inch Windows 11 ",?15.6,?4,?512,,?Coolby,?Windows11Pro,?Intel,,?1920x1080,?HealBook Pro
+299," 15.6 FHD 16GB DDR4 512GB SSD, Intel Quad-Core 12th Alder Lake N95(Up to 3.4GHz) with Windows 11 Pro PC, Light Metal ",?15.6,?16,?512,?Intel UHD Graphics Up to 1200MHz,?ACEMAGIC,?Windows11Pro,?Intel,?Silver,?1920x1080,?AX15
+300,Lenovo IdeaPad Gaming 3 ,?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+301,14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+302," Computer, 15.6 Inch 12GB RAM 512GB SSD Intel Quad-Core N4120 Windows 11 ",?15.6,?,?512,?Intel UHD Graphics 600,?WIPEMIK,?Windows11Pro,?Intel,,?1920x1080,
+303,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+304," Computer, 15.6 inch Windows 11 ",?15.6,?4,?512,,?Coolby,?Windows11Pro,?Intel,,?1920x1080,?HealBook Pro
+305,Dell Inspiron 7630 ,?16,?32,?,?NVIDIA GeForce RTX 3050,?Dell,?Windows11Pro,?Intel,?Silver,?2560x1600,?Dell Inspiron 16 7630 Laptop
+306," 15.6 FHD 16GB DDR4 512GB SSD, Intel Quad-Core 12th Alder Lake N95(Up to 3.4GHz) with Windows 11 Pro PC, Light Metal ",?15.6,?16,?512,?Intel UHD Graphics Up to 1200MHz,?ACEMAGIC,?Windows11Pro,?Intel,?Silver,?1920x1080,?AX15
+307,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+308,WIPEMIK ,?15.6,?,?512,?Intel UHD Graphics 600,?WIPEMIK,?Windows11Pro,?Intel,,?1920x1080,
+309,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+310,Coolby ,?15.6,?4,?512,,?Coolby,?Windows11Pro,?Intel,,?1920x1080,?HealBook Pro
+311,ACEMAGIC ,?15.6,?16,?512,?Intel UHD Graphics Up to 1200MHz,?ACEMAGIC,?Windows11Pro,?Intel,?Silver,?1920x1080,?AX15
+312,Lenovo IdeaPad Gaming 3 ,?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+313,BiTECOOL 14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+314,"Laptop Computer, 15.6 Inch 12GB RAM 512GB SSD Intel Quad-Core N4120 Windows 11 Laptop, 1080P Full HD IPS Display, 2.4/5G WiFi, Bluetooth 4.2, USB 3.0, Webcam, Expandable Up to 1TB",?15.6,?,?512,?Intel UHD Graphics 600,?WIPEMIK,?Windows11Pro,?Intel,,?1920x1080,
+315,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+316,"Laptop Computer, 15.6 inch Windows 11 Laptop with 1920x1080 IPS Display, 12GB RAM/512 GB NVMe SSD, Intel N5095 Quad Core Notebook PC, Support 2.4G/5G Hz WiFi, BT, Type-c PD 3.0 Charging",?15.6,?4,?512,,?Coolby,?Windows11Pro,?Intel,,?1920x1080,?HealBook Pro
+317,"Laptop 15.6 FHD 16GB DDR4 512GB SSD, Intel Quad-Core 12th Alder Lake N95(Up to 3.4GHz) with Windows 11 Pro PC, Light Metal Laptop Computers Support 2.4G/5G WiFi, BT5.0, 2×Speaker, Mic, USB3.2",?15.6,?16,?512,?Intel UHD Graphics Up to 1200MHz,?ACEMAGIC,?Windows11Pro,?Intel,?Silver,?1920x1080,?AX15
+318,"Lenovo IdeaPad Gaming 3 Laptop, 15.6” 120 Hz FHD Display, AMD Ryzen 7 7735HS, NVIDIA GeForce RTX 4050, 32GB DDR5 RAM, 1TB SSD, Backlit KB, Wi-Fi 6, RJ-45, HDMI, Windows 11 Home, Grey",?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+319,"14-inch Windows 11 Laptop, 12GB RAM, 256GB NVMe SSD, up to 2100MB/S, FHD IPS Display, Intel Celeron N5095 Quad Core, 5G WiFi, BT4.2, Type C and Camera Cover, Lightweight and Portable",?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+320,WIPEMIK ,?15.6,?,?512,?Intel UHD Graphics 600,?WIPEMIK,?Windows11Pro,?Intel,,?1920x1080,
+321,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+322,Coolby ,?15.6,?4,?512,,?Coolby,?Windows11Pro,?Intel,,?1920x1080,?HealBook Pro
+323,ACEMAGIC ,?15.6,?16,?512,?Intel UHD Graphics Up to 1200MHz,?ACEMAGIC,?Windows11Pro,?Intel,?Silver,?1920x1080,?AX15
+324,BiTECOOL 14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+325,Lenovo 15.6'' IdeaPad ,?15.6,?8,?512,?AMD Radeon Graphics,?Lenovo,?Windows11S,?AMD,?Grey,??1366x768,?Lenovo IdeaPad Laptop
+326,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+327," Computer, 15.6 inch Windows 11 ",?15.6,?4,?512,,?Coolby,?Windows11Pro,?Intel,,?1920x1080,?HealBook Pro
+328,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+329,Lenovo 2022 Newest IdeaPad 3 ,?15.6,?,?256,?Intel UHD Graphics,?Lenovo,?Windows11S,?Intel,?Almond,?1366x768,?Lenovo ideapad 3
+330,Lenovo IdeaPad Gaming 3 ,?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+331,14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+332,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+333,Coolby ,?15.6,?4,?512,,?Coolby,?Windows11Pro,?Intel,,?1920x1080,?HealBook Pro
+334,Lenovo 15.6'' IdeaPad ,?15.6,?8,?512,?AMD Radeon Graphics,?Lenovo,?Windows11S,?AMD,?Grey,??1366x768,?Lenovo IdeaPad Laptop
+335,"Lenovo 15.6"" IdeaPad 1 ",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+336,Lenovo IdeaPad Gaming 3 ,?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+337,BiTECOOL 14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+338,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+339," Computer, 15.6 inch Windows 11 ",?15.6,?4,?512,,?Coolby,?Windows11Pro,?Intel,,?1920x1080,?HealBook Pro
+340,"Lenovo 15.6"" IdeaPad 1 ",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+341,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+342,14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+343,Lenovo 15.6'' IdeaPad ,?15.6,?8,?512,?AMD Radeon Graphics,?Lenovo,?Windows11S,?AMD,?Grey,??1366x768,?Lenovo IdeaPad Laptop
+344,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+345,Coolby ,?15.6,?4,?512,,?Coolby,?Windows11Pro,?Intel,,?1920x1080,?HealBook Pro
+346,"Lenovo 15.6"" IdeaPad 1 ",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+347,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+348,Lenovo IdeaPad Gaming 3 ,?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+349,BiTECOOL 14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+350,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+351,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+352,Lenovo IdeaPad Gaming 3 ,?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+353,"Lenovo 15.6"" IdeaPad 1 ",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+354,14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+355,Lenovo 15.6'' IdeaPad ,?15.6,?8,?512,?AMD Radeon Graphics,?Lenovo,?Windows11S,?AMD,?Grey,??1366x768,?Lenovo IdeaPad Laptop
+356,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+357,"Dell Inspiron 15 3530 Laptop - Intel Core i5-1335U, 15.6-inch FHD 120Hz Display, 16GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 11 Home, Services Included - Platinum Silver",?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+358,"Lenovo 15.6'' IdeaPad Laptop (Latest Model), AMD Athlon Dual Core Processor, 640GB SSD (128GB eMMC+512GB PCIe SSD), Webcam, HDMI, WiFi 6, USB Type-C, Long Battery Life, NLY MP, Windows 11, Grey",?15.6,?8,?512,?AMD Radeon Graphics,?Lenovo,?Windows11S,?AMD,?Grey,??1366x768,?Lenovo IdeaPad Laptop
+359,"Lenovo 15.6"" IdeaPad 1 Laptop, 1TB SSD Storage, 20GB Memory, AMD Athlon Silver Processor, 15.6"" HD Display, Wi-Fi 6 & Bluetooth 5.1, SD Card Reader, HDMI, Windows 11 Home, 1 Year Microsoft 365",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+360,"Lenovo IdeaPad Gaming 3 Laptop, 15.6” 120 Hz FHD Display, AMD Ryzen 7 7735HS, NVIDIA GeForce RTX 4050, 32GB DDR5 RAM, 1TB SSD, Backlit KB, Wi-Fi 6, RJ-45, HDMI, Windows 11 Home, Grey",?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+361,"BiTECOOL 14-inch Windows 11 Laptop, 12GB RAM, 256GB NVMe SSD, up to 2100MB/S, FHD IPS Display, Intel Celeron N5095 Quad Core, 5G WiFi, BT4.2, Type C and Camera Cover, Lightweight and Portable",?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+362,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+363,"Dell Inspiron 15 3530 Laptop - Intel Core i5-1335U, 15.6-inch FHD 120Hz Display, 16GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 11 Home, Services Included - Platinum Silver",?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+364,"Lenovo 15.6"" IdeaPad 1 Laptop, 1TB SSD Storage, 20GB Memory, AMD Athlon Silver Processor, 15.6"" HD Display, Wi-Fi 6 & Bluetooth 5.1, SD Card Reader, HDMI, Windows 11 Home, 1 Year Microsoft 365",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+365,"Tulasi Laptop, Windows 11 Laptop Computer, 12GB RAM 256GB SSD Intel Celeron N4120 Quad-Core, 14 inch 1080P IPS Display Ultra Slim Laptop, 2.4G/5G WiFi, Bluetooth 4.2, Webcam, Long Battery Life",?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+366,"Lenovo IdeaPad Gaming 3 Laptop, 15.6” 120 Hz FHD Display, AMD Ryzen 7 7735HS, NVIDIA GeForce RTX 4050, 32GB DDR5 RAM, 1TB SSD, Backlit KB, Wi-Fi 6, RJ-45, HDMI, Windows 11 Home, Grey",?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+367,"14-inch Windows 11 Laptop, 12GB RAM, 256GB NVMe SSD, up to 2100MB/S, FHD IPS Display, Intel Celeron N5095 Quad Core, 5G WiFi, BT4.2, Type C and Camera Cover, Lightweight and Portable",?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+368,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+369,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+370,"Lenovo 15.6"" IdeaPad 1 ",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+371,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+372,14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+373,Lenovo 15.6'' IdeaPad ,?15.6,?8,?512,?AMD Radeon Graphics,?Lenovo,?Windows11S,?AMD,?Grey,??1366x768,?Lenovo IdeaPad Laptop
+374,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+375,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+376,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+377,Lenovo 2022 Newest IdeaPad 3 ,?15.6,?,?256,?Intel UHD Graphics,?Lenovo,?Windows11S,?Intel,?Almond,?1366x768,?Lenovo ideapad 3
+378,Lenovo IdeaPad Gaming 3 ,?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+379,BiTECOOL 14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+380,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+381,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+382,"Lenovo 15.6"" IdeaPad 1 ",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+383,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+384,BiTECOOL 14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+385,Lenovo 15.6'' IdeaPad ,?15.6,?8,?512,?AMD Radeon Graphics,?Lenovo,?Windows11S,?AMD,?Grey,??1366x768,?Lenovo IdeaPad Laptop
+386,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+387,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+388,"Lenovo 15.6"" IdeaPad 1 ",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+389,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+390,14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+391,Lenovo 15.6'' IdeaPad ,?15.6,?8,?512,?AMD Radeon Graphics,?Lenovo,?Windows11S,?AMD,?Grey,??1366x768,?Lenovo IdeaPad Laptop
+392,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+393,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+394,"Lenovo 15.6"" IdeaPad 1 ",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+395,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+396,Lenovo IdeaPad Gaming 3 ,?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+397,14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+398,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+399,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+400,Lenovo 15.6'' IdeaPad ,?15.6,?8,?512,?AMD Radeon Graphics,?Lenovo,?Windows11S,?AMD,?Grey,??1366x768,?Lenovo IdeaPad Laptop
+401,"Lenovo 15.6"" IdeaPad 1 ",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+402,Lenovo IdeaPad Gaming 3 ,?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+403,BiTECOOL 14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+404,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+405,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+406,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+407,Lenovo 2022 Newest IdeaPad 3 ,?15.6,?,?256,?Intel UHD Graphics,?Lenovo,?Windows11S,?Intel,?Almond,?1366x768,?Lenovo ideapad 3
+408,Lenovo IdeaPad Gaming 3 ,?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+409,BiTECOOL 14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+410,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+411,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+412,Lenovo IdeaPad Gaming 3 ,?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+413,"Lenovo 15.6"" IdeaPad 1 ",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+414,14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+415,"HENGHUI Touch iPad 9th Generation 8th Gen 7th Gen 10.2 Inch Keyboard Case with Touchpad iPad Air 3/Pro 10.5 Detachable Wireless Keyboard Round Keys Stand Folio Cover, MintGreen",,,,,,,,,,
+416,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+417,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+418,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+419,Lenovo 2022 Newest IdeaPad 3 ,?15.6,?,?256,?Intel UHD Graphics,?Lenovo,?Windows11S,?Intel,?Almond,?1366x768,?Lenovo ideapad 3
+420,BiTECOOL 14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+421,WIPEMIK ,?15.6,?,?512,?Intel UHD Graphics 600,?WIPEMIK,?Windows11Pro,?Intel,,?1920x1080,
+422,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+423,"Dell Inspiron 15 3530 Laptop - Intel Core i5-1335U, 15.6-inch FHD 120Hz Display, 16GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 11 Home, Services Included - Platinum Silver",?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+424,"Lenovo 15.6'' IdeaPad Laptop (Latest Model), AMD Athlon Dual Core Processor, 640GB SSD (128GB eMMC+512GB PCIe SSD), Webcam, HDMI, WiFi 6, USB Type-C, Long Battery Life, NLY MP, Windows 11, Grey",?15.6,?8,?512,?AMD Radeon Graphics,?Lenovo,?Windows11S,?AMD,?Grey,??1366x768,?Lenovo IdeaPad Laptop
+425,"Lenovo 15.6"" IdeaPad 1 Laptop, 1TB SSD Storage, 20GB Memory, AMD Athlon Silver Processor, 15.6"" HD Display, Wi-Fi 6 & Bluetooth 5.1, SD Card Reader, HDMI, Windows 11 Home, 1 Year Microsoft 365",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+426,"BiTECOOL 14-inch Windows 11 Laptop, 12GB RAM, 256GB NVMe SSD, up to 2100MB/S, FHD IPS Display, Intel Celeron N5095 Quad Core, 5G WiFi, BT4.2, Type C and Camera Cover, Lightweight and Portable",?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+427,"Tulasi Laptop, Windows 11 Laptop Computer, 12GB RAM 256GB SSD Intel Celeron N4120 Quad-Core, 14 inch 1080P IPS Display Ultra Slim Laptop, 2.4G/5G WiFi, Bluetooth 4.2, Webcam, Long Battery Life",?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+428,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+429,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+430,"Lenovo 15.6"" IdeaPad 1 ",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+431,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+432,Lenovo IdeaPad Gaming 3 ,?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+433,BiTECOOL 14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+434,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+435,"Dell Inspiron 15 3530 Laptop - Intel Core i5-1335U, 15.6-inch FHD 120Hz Display, 16GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 11 Home, Services Included - Platinum Silver",?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+436,"Lenovo 15.6"" IdeaPad 1 Laptop, 1TB SSD Storage, 20GB Memory, AMD Athlon Silver Processor, 15.6"" HD Display, Wi-Fi 6 & Bluetooth 5.1, SD Card Reader, HDMI, Windows 11 Home, 1 Year Microsoft 365",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+437,"Tulasi Laptop, Windows 11 Laptop Computer, 12GB RAM 256GB SSD Intel Celeron N4120 Quad-Core, 14 inch 1080P IPS Display Ultra Slim Laptop, 2.4G/5G WiFi, Bluetooth 4.2, Webcam, Long Battery Life",?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+438,"Lenovo IdeaPad Gaming 3 Laptop, 15.6” 120 Hz FHD Display, AMD Ryzen 7 7735HS, NVIDIA GeForce RTX 4050, 32GB DDR5 RAM, 1TB SSD, Backlit KB, Wi-Fi 6, RJ-45, HDMI, Windows 11 Home, Grey",?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+439,"BiTECOOL 14-inch Windows 11 Laptop, 12GB RAM, 256GB NVMe SSD, up to 2100MB/S, FHD IPS Display, Intel Celeron N5095 Quad Core, 5G WiFi, BT4.2, Type C and Camera Cover, Lightweight and Portable",?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+440,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+441,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+442,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+443,Lenovo 2022 Newest IdeaPad 3 ,?15.6,?,?256,?Intel UHD Graphics,?Lenovo,?Windows11S,?Intel,?Almond,?1366x768,?Lenovo ideapad 3
+444,Lenovo IdeaPad Gaming 3 ,?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+445,BiTECOOL 14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+446,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+447,"Lenovo 15.6'' IdeaPad Laptop (Latest Model), AMD Athlon Dual Core Processor, 640GB SSD (128GB eMMC+512GB PCIe SSD), Webcam, HDMI, WiFi 6, USB Type-C, Long Battery Life, NLY MP, Windows 11, Grey",?15.6,?8,?512,?AMD Radeon Graphics,?Lenovo,?Windows11S,?AMD,?Grey,??1366x768,?Lenovo IdeaPad Laptop
+448,"Lenovo 15.6"" IdeaPad 1 Laptop, 1TB SSD Storage, 20GB Memory, AMD Athlon Silver Processor, 15.6"" HD Display, Wi-Fi 6 & Bluetooth 5.1, SD Card Reader, HDMI, Windows 11 Home, 1 Year Microsoft 365",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+449,"Tulasi Laptop, Windows 11 Laptop Computer, 12GB RAM 256GB SSD Intel Celeron N4120 Quad-Core, 14 inch 1080P IPS Display Ultra Slim Laptop, 2.4G/5G WiFi, Bluetooth 4.2, Webcam, Long Battery Life",?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+450,"BiTECOOL 14-inch Windows 11 Laptop, 12GB RAM, 256GB NVMe SSD, up to 2100MB/S, FHD IPS Display, Intel Celeron N5095 Quad Core, 5G WiFi, BT4.2, Type C and Camera Cover, Lightweight and Portable",?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+451,"WIPEMIK Laptop Computer, 15.6 Inch 12GB RAM 512GB SSD Intel Quad-Core N4120 Windows 11 Laptop, 1080P Full HD IPS Display, 2.4/5G WiFi, Bluetooth 4.2, USB 3.0, Webcam, Expandable Up to 1TB",?15.6,?,?512,?Intel UHD Graphics 600,?WIPEMIK,?Windows11Pro,?Intel,,?1920x1080,
+452,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+453,Lenovo IdeaPad Gaming 3 ,?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+454,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+455,Lenovo 2022 Newest IdeaPad 3 ,?15.6,?,?256,?Intel UHD Graphics,?Lenovo,?Windows11S,?Intel,?Almond,?1366x768,?Lenovo ideapad 3
+456,BiTECOOL 14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+457,WIPEMIK ,?15.6,?,?512,?Intel UHD Graphics 600,?WIPEMIK,?Windows11Pro,?Intel,,?1920x1080,
+458,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+459,"Dell Inspiron 15 3530 Laptop - Intel Core i5-1335U, 15.6-inch FHD 120Hz Display, 16GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 11 Home, Services Included - Platinum Silver",?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+460,"Tulasi Laptop, Windows 11 Laptop Computer, 12GB RAM 256GB SSD Intel Celeron N4120 Quad-Core, 14 inch 1080P IPS Display Ultra Slim Laptop, 2.4G/5G WiFi, Bluetooth 4.2, Webcam, Long Battery Life",?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+461,"Lenovo 15.6"" IdeaPad 1 Laptop, 1TB SSD Storage, 20GB Memory, AMD Athlon Silver Processor, 15.6"" HD Display, Wi-Fi 6 & Bluetooth 5.1, SD Card Reader, HDMI, Windows 11 Home, 1 Year Microsoft 365",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+462,"Lenovo IdeaPad Gaming 3 Laptop, 15.6” 120 Hz FHD Display, AMD Ryzen 7 7735HS, NVIDIA GeForce RTX 4050, 32GB DDR5 RAM, 1TB SSD, Backlit KB, Wi-Fi 6, RJ-45, HDMI, Windows 11 Home, Grey",?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+463,"BiTECOOL 14-inch Windows 11 Laptop, 12GB RAM, 256GB NVMe SSD, up to 2100MB/S, FHD IPS Display, Intel Celeron N5095 Quad Core, 5G WiFi, BT4.2, Type C and Camera Cover, Lightweight and Portable",?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+464,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+465,"Dell Inspiron 15 3530 Laptop - Intel Core i5-1335U, 15.6-inch FHD 120Hz Display, 16GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 11 Home, Services Included - Platinum Silver",?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+466,"Tulasi Laptop, Windows 11 Laptop Computer, 12GB RAM 256GB SSD Intel Celeron N4120 Quad-Core, 14 inch 1080P IPS Display Ultra Slim Laptop, 2.4G/5G WiFi, Bluetooth 4.2, Webcam, Long Battery Life",?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+467,"Lenovo 15.6"" IdeaPad 1 Laptop, 1TB SSD Storage, 20GB Memory, AMD Athlon Silver Processor, 15.6"" HD Display, Wi-Fi 6 & Bluetooth 5.1, SD Card Reader, HDMI, Windows 11 Home, 1 Year Microsoft 365",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+468,"Lenovo IdeaPad Gaming 3 Laptop, 15.6” 120 Hz FHD Display, AMD Ryzen 7 7735HS, NVIDIA GeForce RTX 4050, 32GB DDR5 RAM, 1TB SSD, Backlit KB, Wi-Fi 6, RJ-45, HDMI, Windows 11 Home, Grey",?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+469,"BiTECOOL 14-inch Windows 11 Laptop, 12GB RAM, 256GB NVMe SSD, up to 2100MB/S, FHD IPS Display, Intel Celeron N5095 Quad Core, 5G WiFi, BT4.2, Type C and Camera Cover, Lightweight and Portable",?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+470,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+471,"Dell Inspiron 15 3530 Laptop - Intel Core i5-1335U, 15.6-inch FHD 120Hz Display, 16GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 11 Home, Services Included - Platinum Silver",?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+472,"Tulasi Laptop, Windows 11 Laptop Computer, 12GB RAM 256GB SSD Intel Celeron N4120 Quad-Core, 14 inch 1080P IPS Display Ultra Slim Laptop, 2.4G/5G WiFi, Bluetooth 4.2, Webcam, Long Battery Life",?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+473,"Lenovo 15.6"" IdeaPad 1 Laptop, 1TB SSD Storage, 20GB Memory, AMD Athlon Silver Processor, 15.6"" HD Display, Wi-Fi 6 & Bluetooth 5.1, SD Card Reader, HDMI, Windows 11 Home, 1 Year Microsoft 365",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+474,"BiTECOOL 14-inch Windows 11 Laptop, 12GB RAM, 256GB NVMe SSD, up to 2100MB/S, FHD IPS Display, Intel Celeron N5095 Quad Core, 5G WiFi, BT4.2, Type C and Camera Cover, Lightweight and Portable",?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+475,"Lenovo 15.6'' IdeaPad Laptop (Latest Model), AMD Athlon Dual Core Processor, 640GB SSD (128GB eMMC+512GB PCIe SSD), Webcam, HDMI, WiFi 6, USB Type-C, Long Battery Life, NLY MP, Windows 11, Grey",?15.6,?8,?512,?AMD Radeon Graphics,?Lenovo,?Windows11S,?AMD,?Grey,??1366x768,?Lenovo IdeaPad Laptop
+476,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+477,"Dell Inspiron 15 3530 Laptop - Intel Core i5-1335U, 15.6-inch FHD 120Hz Display, 16GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 11 Home, Services Included - Platinum Silver",?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+478,"Tulasi Laptop, Windows 11 Laptop Computer, 12GB RAM 256GB SSD Intel Celeron N4120 Quad-Core, 14 inch 1080P IPS Display Ultra Slim Laptop, 2.4G/5G WiFi, Bluetooth 4.2, Webcam, Long Battery Life",?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+479,"Lenovo 15.6"" IdeaPad 1 Laptop, 1TB SSD Storage, 20GB Memory, AMD Athlon Silver Processor, 15.6"" HD Display, Wi-Fi 6 & Bluetooth 5.1, SD Card Reader, HDMI, Windows 11 Home, 1 Year Microsoft 365",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+480,"BiTECOOL 14-inch Windows 11 Laptop, 12GB RAM, 256GB NVMe SSD, up to 2100MB/S, FHD IPS Display, Intel Celeron N5095 Quad Core, 5G WiFi, BT4.2, Type C and Camera Cover, Lightweight and Portable",?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+481,"CHUWI HeroBook Pro 14.1'' Laptop, 8GB RAM 256GB SSD, Windows 11 Laptop, 1TB SSD Expand, Intel Celeron N4020(up to 2.8GHz), 2K FHD IPS Display, Ultra Slim, Mini-HDMI, 5G WiFi, USB3.0, Webcam,TF Card",?14.1,?6,?256,?Intel UHD Graphics 600,?CHUWI,?Windows11,?Intel,?Space Gray,?1920x1080,?HeroBook Pro Laptop
+482,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+483,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+484,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+485,14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+486,CHUWI HeroBook Pro 14.1'' ,?14.1,?6,?256,?Intel UHD Graphics 600,?CHUWI,?Windows11,?Intel,?Space Gray,?1920x1080,?HeroBook Pro Laptop
+487," Computer, 15.6 Inch 12GB RAM 512GB SSD Intel Quad-Core N4120 Windows 11 ",?15.6,?,?512,?Intel UHD Graphics 600,?WIPEMIK,?Windows11Pro,?Intel,,?1920x1080,
+488,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+489,Lenovo 15.6'' IdeaPad ,?15.6,?8,?512,?AMD Radeon Graphics,?Lenovo,?Windows11S,?AMD,?Grey,??1366x768,?Lenovo IdeaPad Laptop
+490,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+491,"Lenovo 15.6"" IdeaPad 1 ",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+492,Lenovo IdeaPad Gaming 3 ,?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+493,BiTECOOL 14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+494,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+495,"Lenovo IdeaPad Gaming 3 Laptop, 15.6” 120 Hz FHD Display, AMD Ryzen 7 7735HS, NVIDIA GeForce RTX 4050, 32GB DDR5 RAM, 1TB SSD, Backlit KB, Wi-Fi 6, RJ-45, HDMI, Windows 11 Home, Grey",?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+496,"Tulasi Laptop, Windows 11 Laptop Computer, 12GB RAM 256GB SSD Intel Celeron N4120 Quad-Core, 14 inch 1080P IPS Display Ultra Slim Laptop, 2.4G/5G WiFi, Bluetooth 4.2, Webcam, Long Battery Life",?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+497,"Lenovo 15.6"" IdeaPad 1 Laptop, 1TB SSD Storage, 20GB Memory, AMD Athlon Silver Processor, 15.6"" HD Display, Wi-Fi 6 & Bluetooth 5.1, SD Card Reader, HDMI, Windows 11 Home, 1 Year Microsoft 365",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+498,"14-inch Windows 11 Laptop, 12GB RAM, 256GB NVMe SSD, up to 2100MB/S, FHD IPS Display, Intel Celeron N5095 Quad Core, 5G WiFi, BT4.2, Type C and Camera Cover, Lightweight and Portable",?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+499,"Lenovo 15.6'' IdeaPad Laptop (Latest Model), AMD Athlon Dual Core Processor, 640GB SSD (128GB eMMC+512GB PCIe SSD), Webcam, HDMI, WiFi 6, USB Type-C, Long Battery Life, NLY MP, Windows 11, Grey",?15.6,?8,?512,?AMD Radeon Graphics,?Lenovo,?Windows11S,?AMD,?Grey,??1366x768,?Lenovo IdeaPad Laptop
+500,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+501,"Dell Inspiron 15 3530 Laptop - Intel Core i5-1335U, 15.6-inch FHD 120Hz Display, 16GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 11 Home, Services Included - Platinum Silver",?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+502,"Tulasi Laptop, Windows 11 Laptop Computer, 12GB RAM 256GB SSD Intel Celeron N4120 Quad-Core, 14 inch 1080P IPS Display Ultra Slim Laptop, 2.4G/5G WiFi, Bluetooth 4.2, Webcam, Long Battery Life",?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+503,"Lenovo 15.6"" IdeaPad 1 Laptop, 1TB SSD Storage, 20GB Memory, AMD Athlon Silver Processor, 15.6"" HD Display, Wi-Fi 6 & Bluetooth 5.1, SD Card Reader, HDMI, Windows 11 Home, 1 Year Microsoft 365",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+504,"BiTECOOL 14-inch Windows 11 Laptop, 12GB RAM, 256GB NVMe SSD, up to 2100MB/S, FHD IPS Display, Intel Celeron N5095 Quad Core, 5G WiFi, BT4.2, Type C and Camera Cover, Lightweight and Portable",?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+505,"Lenovo 15.6'' IdeaPad Laptop (Latest Model), AMD Athlon Dual Core Processor, 640GB SSD (128GB eMMC+512GB PCIe SSD), Webcam, HDMI, WiFi 6, USB Type-C, Long Battery Life, NLY MP, Windows 11, Grey",?15.6,?8,?512,?AMD Radeon Graphics,?Lenovo,?Windows11S,?AMD,?Grey,??1366x768,?Lenovo IdeaPad Laptop
+506,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+507,"Dell Inspiron 15 3530 Laptop - Intel Core i5-1335U, 15.6-inch FHD 120Hz Display, 16GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 11 Home, Services Included - Platinum Silver",?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+508,"Lenovo 15.6'' IdeaPad Laptop (Latest Model), AMD Athlon Dual Core Processor, 640GB SSD (128GB eMMC+512GB PCIe SSD), Webcam, HDMI, WiFi 6, USB Type-C, Long Battery Life, NLY MP, Windows 11, Grey",?15.6,?8,?512,?AMD Radeon Graphics,?Lenovo,?Windows11S,?AMD,?Grey,??1366x768,?Lenovo IdeaPad Laptop
+509,"Tulasi Laptop, Windows 11 Laptop Computer, 12GB RAM 256GB SSD Intel Celeron N4120 Quad-Core, 14 inch 1080P IPS Display Ultra Slim Laptop, 2.4G/5G WiFi, Bluetooth 4.2, Webcam, Long Battery Life",?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+510,"BiTECOOL 14-inch Windows 11 Laptop, 12GB RAM, 256GB NVMe SSD, up to 2100MB/S, FHD IPS Display, Intel Celeron N5095 Quad Core, 5G WiFi, BT4.2, Type C and Camera Cover, Lightweight and Portable",?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+511,"Lenovo 15.6"" IdeaPad 1 Laptop, 1TB SSD Storage, 20GB Memory, AMD Athlon Silver Processor, 15.6"" HD Display, Wi-Fi 6 & Bluetooth 5.1, SD Card Reader, HDMI, Windows 11 Home, 1 Year Microsoft 365",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+512,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+513,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+514,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+515,"Lenovo 15.6"" IdeaPad 1 ",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+516,BiTECOOL 14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+517,CHUWI HeroBook Pro 14.1'' ,?14.1,?6,?256,?Intel UHD Graphics 600,?CHUWI,?Windows11,?Intel,?Space Gray,?1920x1080,?HeroBook Pro Laptop
+518,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+519,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+520,Lenovo 15.6'' IdeaPad ,?15.6,?8,?512,?AMD Radeon Graphics,?Lenovo,?Windows11S,?AMD,?Grey,??1366x768,?Lenovo IdeaPad Laptop
+521,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+522,14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+523,"Lenovo 15.6"" IdeaPad 1 ",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+524,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+525,"Dell Inspiron 15 3530 Laptop - Intel Core i5-1335U, 15.6-inch FHD 120Hz Display, 16GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 11 Home, Services Included - Platinum Silver",?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+526,"Tulasi Laptop, Windows 11 Laptop Computer, 12GB RAM 256GB SSD Intel Celeron N4120 Quad-Core, 14 inch 1080P IPS Display Ultra Slim Laptop, 2.4G/5G WiFi, Bluetooth 4.2, Webcam, Long Battery Life",?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+527,"Lenovo 15.6"" IdeaPad 1 Laptop, 1TB SSD Storage, 20GB Memory, AMD Athlon Silver Processor, 15.6"" HD Display, Wi-Fi 6 & Bluetooth 5.1, SD Card Reader, HDMI, Windows 11 Home, 1 Year Microsoft 365",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+528,"BiTECOOL 14-inch Windows 11 Laptop, 12GB RAM, 256GB NVMe SSD, up to 2100MB/S, FHD IPS Display, Intel Celeron N5095 Quad Core, 5G WiFi, BT4.2, Type C and Camera Cover, Lightweight and Portable",?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+529,"Lenovo 15.6'' IdeaPad Laptop (Latest Model), AMD Athlon Dual Core Processor, 640GB SSD (128GB eMMC+512GB PCIe SSD), Webcam, HDMI, WiFi 6, USB Type-C, Long Battery Life, NLY MP, Windows 11, Grey",?15.6,?8,?512,?AMD Radeon Graphics,?Lenovo,?Windows11S,?AMD,?Grey,??1366x768,?Lenovo IdeaPad Laptop
+530,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+531,"Dell Inspiron 15 3530 Laptop - Intel Core i5-1335U, 15.6-inch FHD 120Hz Display, 16GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 11 Home, Services Included - Platinum Silver",?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+532,"Lenovo 15.6'' IdeaPad Laptop (Latest Model), AMD Athlon Dual Core Processor, 640GB SSD (128GB eMMC+512GB PCIe SSD), Webcam, HDMI, WiFi 6, USB Type-C, Long Battery Life, NLY MP, Windows 11, Grey",?15.6,?8,?512,?AMD Radeon Graphics,?Lenovo,?Windows11S,?AMD,?Grey,??1366x768,?Lenovo IdeaPad Laptop
+533,"Tulasi Laptop, Windows 11 Laptop Computer, 12GB RAM 256GB SSD Intel Celeron N4120 Quad-Core, 14 inch 1080P IPS Display Ultra Slim Laptop, 2.4G/5G WiFi, Bluetooth 4.2, Webcam, Long Battery Life",?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+534,"14-inch Windows 11 Laptop, 12GB RAM, 256GB NVMe SSD, up to 2100MB/S, FHD IPS Display, Intel Celeron N5095 Quad Core, 5G WiFi, BT4.2, Type C and Camera Cover, Lightweight and Portable",?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+535,"Lenovo 15.6"" IdeaPad 1 Laptop, 1TB SSD Storage, 20GB Memory, AMD Athlon Silver Processor, 15.6"" HD Display, Wi-Fi 6 & Bluetooth 5.1, SD Card Reader, HDMI, Windows 11 Home, 1 Year Microsoft 365",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+536,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+537,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+538,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+539,"Lenovo 15.6"" IdeaPad 1 ",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+540,BiTECOOL 14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+541,Lenovo 15.6'' IdeaPad ,?15.6,?8,?512,?AMD Radeon Graphics,?Lenovo,?Windows11S,?AMD,?Grey,??1366x768,?Lenovo IdeaPad Laptop
+542,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+543,"Dell Inspiron 15 3530 Laptop - Intel Core i5-1335U, 15.6-inch FHD 120Hz Display, 16GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 11 Home, Services Included - Platinum Silver",?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+544,"BiTECOOL 14-inch Windows 11 Laptop, 12GB RAM, 256GB NVMe SSD, up to 2100MB/S, FHD IPS Display, Intel Celeron N5095 Quad Core, 5G WiFi, BT4.2, Type C and Camera Cover, Lightweight and Portable",?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+545,"Lenovo 2022 Newest IdeaPad 3 Laptop, 15.6"" HD Touchscreen Display, Intel Core i3-1115G4 Processor, 8GB RAM, 256GB SSD, Intel UHD Graphics, Bluetooth, Webcam, Windows 11 Home, Almond",?15.6,?,?256,?Intel UHD Graphics,?Lenovo,?Windows11S,?Intel,?Almond,?1366x768,?Lenovo ideapad 3
+546,"Lenovo IdeaPad Gaming 3 Laptop, 15.6” 120 Hz FHD Display, AMD Ryzen 7 7735HS, NVIDIA GeForce RTX 4050, 32GB DDR5 RAM, 1TB SSD, Backlit KB, Wi-Fi 6, RJ-45, HDMI, Windows 11 Home, Grey",?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+547,"Ruzava 14"" Laptop 6GB RAM 64GB Storage Support 1TB SSD Expansion Traditional Laptops Windows 10 2.4G+5G WiFi Bluetooth 4.2 USB HDMI 1920x1080 FHD WOZIFAN with Wireless Mouse for Work Study - Gray",?14,?6,?64,?Intel N4020,?Ruzava,?Windows10,?Intel,?W5-Gray,?1920x1080,
+548,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+549,"Dell Inspiron 15 3530 Laptop - Intel Core i5-1335U, 15.6-inch FHD 120Hz Display, 16GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 11 Home, Services Included - Platinum Silver",?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+550,"Tulasi Laptop, Windows 11 Laptop Computer, 12GB RAM 256GB SSD Intel Celeron N4120 Quad-Core, 14 inch 1080P IPS Display Ultra Slim Laptop, 2.4G/5G WiFi, Bluetooth 4.2, Webcam, Long Battery Life",?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+551,"Lenovo 15.6"" IdeaPad 1 Laptop, 1TB SSD Storage, 20GB Memory, AMD Athlon Silver Processor, 15.6"" HD Display, Wi-Fi 6 & Bluetooth 5.1, SD Card Reader, HDMI, Windows 11 Home, 1 Year Microsoft 365",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+552,"BiTECOOL 14-inch Windows 11 Laptop, 12GB RAM, 256GB NVMe SSD, up to 2100MB/S, FHD IPS Display, Intel Celeron N5095 Quad Core, 5G WiFi, BT4.2, Type C and Camera Cover, Lightweight and Portable",?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+553,"Ruzava 14"" Laptop 6GB RAM 64GB Storage Support 1TB SSD Expansion Traditional Laptops Windows 10 2.4G+5G WiFi Bluetooth 4.2 USB HDMI 1920x1080 FHD WOZIFAN with Wireless Mouse for Work Study - Gray",?14,?6,?64,?Intel N4020,?Ruzava,?Windows10,?Intel,?W5-Gray,?1920x1080,
+554,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+555,"Dell Inspiron 15 3530 Laptop - Intel Core i5-1335U, 15.6-inch FHD 120Hz Display, 16GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 11 Home, Services Included - Platinum Silver",?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+556,"Tulasi Laptop, Windows 11 Laptop Computer, 12GB RAM 256GB SSD Intel Celeron N4120 Quad-Core, 14 inch 1080P IPS Display Ultra Slim Laptop, 2.4G/5G WiFi, Bluetooth 4.2, Webcam, Long Battery Life",?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+557,"Lenovo 15.6"" IdeaPad 1 Laptop, 1TB SSD Storage, 20GB Memory, AMD Athlon Silver Processor, 15.6"" HD Display, Wi-Fi 6 & Bluetooth 5.1, SD Card Reader, HDMI, Windows 11 Home, 1 Year Microsoft 365",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+558,"Lenovo IdeaPad Gaming 3 Laptop, 15.6” 120 Hz FHD Display, AMD Ryzen 7 7735HS, NVIDIA GeForce RTX 4050, 32GB DDR5 RAM, 1TB SSD, Backlit KB, Wi-Fi 6, RJ-45, HDMI, Windows 11 Home, Grey",?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+559,"14-inch Windows 11 Laptop, 12GB RAM, 256GB NVMe SSD, up to 2100MB/S, FHD IPS Display, Intel Celeron N5095 Quad Core, 5G WiFi, BT4.2, Type C and Camera Cover, Lightweight and Portable",?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+560,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+561,"Lenovo 15.6'' IdeaPad Laptop (Latest Model), AMD Athlon Dual Core Processor, 640GB SSD (128GB eMMC+512GB PCIe SSD), Webcam, HDMI, WiFi 6, USB Type-C, Long Battery Life, NLY MP, Windows 11, Grey",?15.6,?8,?512,?AMD Radeon Graphics,?Lenovo,?Windows11S,?AMD,?Grey,??1366x768,?Lenovo IdeaPad Laptop
+562,"Tulasi Laptop, Windows 11 Laptop Computer, 12GB RAM 256GB SSD Intel Celeron N4120 Quad-Core, 14 inch 1080P IPS Display Ultra Slim Laptop, 2.4G/5G WiFi, Bluetooth 4.2, Webcam, Long Battery Life",?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+563,"Lenovo 15.6"" IdeaPad 1 Laptop, 1TB SSD Storage, 20GB Memory, AMD Athlon Silver Processor, 15.6"" HD Display, Wi-Fi 6 & Bluetooth 5.1, SD Card Reader, HDMI, Windows 11 Home, 1 Year Microsoft 365",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+564,"BiTECOOL 14-inch Windows 11 Laptop, 12GB RAM, 256GB NVMe SSD, up to 2100MB/S, FHD IPS Display, Intel Celeron N5095 Quad Core, 5G WiFi, BT4.2, Type C and Camera Cover, Lightweight and Portable",?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+565,"CHUWI HeroBook Pro 14.1'' Laptop, 8GB RAM 256GB SSD, Windows 11 Laptop, 1TB SSD Expand, Intel Celeron N4020(up to 2.8GHz), 2K FHD IPS Display, Ultra Slim, Mini-HDMI, 5G WiFi, USB3.0, Webcam,TF Card",?14.1,?6,?256,?Intel UHD Graphics 600,?CHUWI,?Windows11,?Intel,?Space Gray,?1920x1080,?HeroBook Pro Laptop
+566,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+567,"Dell Inspiron 15 3530 Laptop - Intel Core i5-1335U, 15.6-inch FHD 120Hz Display, 16GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 11 Home, Services Included - Platinum Silver",?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+568,"Lenovo 15.6"" IdeaPad 1 Laptop, 1TB SSD Storage, 20GB Memory, AMD Athlon Silver Processor, 15.6"" HD Display, Wi-Fi 6 & Bluetooth 5.1, SD Card Reader, HDMI, Windows 11 Home, 1 Year Microsoft 365",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+569,"BiTECOOL 14-inch Windows 11 Laptop, 12GB RAM, 256GB NVMe SSD, up to 2100MB/S, FHD IPS Display, Intel Celeron N5095 Quad Core, 5G WiFi, BT4.2, Type C and Camera Cover, Lightweight and Portable",?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+570,"Lenovo 15.6'' IdeaPad Laptop (Latest Model), AMD Athlon Dual Core Processor, 640GB SSD (128GB eMMC+512GB PCIe SSD), Webcam, HDMI, WiFi 6, USB Type-C, Long Battery Life, NLY MP, Windows 11, Grey",?15.6,?8,?512,?AMD Radeon Graphics,?Lenovo,?Windows11S,?AMD,?Grey,??1366x768,?Lenovo IdeaPad Laptop
+571,"CHUWI HeroBook Pro 14.1'' Laptop, 8GB RAM 256GB SSD, Windows 11 Laptop, 1TB SSD Expand, Intel Celeron N4020(up to 2.8GHz), 2K FHD IPS Display, Ultra Slim, Mini-HDMI, 5G WiFi, USB3.0, Webcam,TF Card",?14.1,?6,?256,?Intel UHD Graphics 600,?CHUWI,?Windows11,?Intel,?Space Gray,?1920x1080,?HeroBook Pro Laptop
+572,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+573,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+574,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+575,14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+576,CHUWI HeroBook Pro 14.1'' ,?14.1,?6,?256,?Intel UHD Graphics 600,?CHUWI,?Windows11,?Intel,?Space Gray,?1920x1080,?HeroBook Pro Laptop
+577,Bmax Y11Plus 2 in 1 ,?11.6,?,?256,?Intel Celeron N5100,?Bmax,?Windows10,?Intel,?Y11 Plus,?1920x1080,?Y11 Plus
+578,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+579,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+580,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+581,"Lenovo 15.6"" IdeaPad 1 ",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+582,14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+583,Lenovo 15.6'' IdeaPad ,?15.6,?8,?512,?AMD Radeon Graphics,?Lenovo,?Windows11S,?AMD,?Grey,??1366x768,?Lenovo IdeaPad Laptop
+584,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+585,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+586,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+587,"Lenovo 15.6"" IdeaPad 1 ",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+588,14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+589,Lenovo 15.6'' IdeaPad ,?15.6,?8,?512,?AMD Radeon Graphics,?Lenovo,?Windows11S,?AMD,?Grey,??1366x768,?Lenovo IdeaPad Laptop
+590,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+591,"Dell Inspiron 15 3530 Laptop - Intel Core i5-1335U, 15.6-inch FHD 120Hz Display, 16GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 11 Home, Services Included - Platinum Silver",?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+592,"Lenovo 15.6"" IdeaPad 1 Laptop, 1TB SSD Storage, 20GB Memory, AMD Athlon Silver Processor, 15.6"" HD Display, Wi-Fi 6 & Bluetooth 5.1, SD Card Reader, HDMI, Windows 11 Home, 1 Year Microsoft 365",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+593,"14-inch Windows 11 Laptop, 12GB RAM, 256GB NVMe SSD, up to 2100MB/S, FHD IPS Display, Intel Celeron N5095 Quad Core, 5G WiFi, BT4.2, Type C and Camera Cover, Lightweight and Portable",?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+594,"Lenovo IdeaPad Gaming 3 Laptop, 15.6” 120 Hz FHD Display, AMD Ryzen 7 7735HS, NVIDIA GeForce RTX 4050, 32GB DDR5 RAM, 1TB SSD, Backlit KB, Wi-Fi 6, RJ-45, HDMI, Windows 11 Home, Grey",?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+595,"Lenovo 15.6'' IdeaPad Laptop (Latest Model), AMD Athlon Dual Core Processor, 640GB SSD (128GB eMMC+512GB PCIe SSD), Webcam, HDMI, WiFi 6, USB Type-C, Long Battery Life, NLY MP, Windows 11, Grey",?15.6,?8,?512,?AMD Radeon Graphics,?Lenovo,?Windows11S,?AMD,?Grey,??1366x768,?Lenovo IdeaPad Laptop
+596,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+597,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+598,BiTECOOL 14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+599,Lenovo 2022 Newest IdeaPad 3 ,?15.6,?,?256,?Intel UHD Graphics,?Lenovo,?Windows11S,?Intel,?Almond,?1366x768,?Lenovo ideapad 3
+600,Lenovo IdeaPad Gaming 3 ,?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+601,CHUWI HeroBook Pro 14.1'' ,?14.1,?6,?256,?Intel UHD Graphics 600,?CHUWI,?Windows11,?Intel,?Space Gray,?1920x1080,?HeroBook Pro Laptop
+602,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+603,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+604,Lenovo IdeaPad Lightweight ,?14,?12,?256,?Intel UHD Graphics,?Lenovo,?Windows11Home,?Intel,?Platinum Grey,?1920x1080,"?2023 Newest Lenovo 14"" FHD Laptop"
+605,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+606,BiTECOOL 14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+607,Lenovo 15.6'' IdeaPad ,?15.6,?8,?512,?AMD Radeon Graphics,?Lenovo,?Windows11S,?AMD,?Grey,??1366x768,?Lenovo IdeaPad Laptop
+608,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+609,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+610,Lenovo IdeaPad Lightweight ,?14,?12,?256,?Intel UHD Graphics,?Lenovo,?Windows11Home,?Intel,?Platinum Grey,?1920x1080,"?2023 Newest Lenovo 14"" FHD Laptop"
+611,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+612,Lenovo IdeaPad Gaming 3 ,?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+613,14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+614,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+615,"Dell Inspiron 15 3530 Laptop - Intel Core i5-1335U, 15.6-inch FHD 120Hz Display, 16GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 11 Home, Services Included - Platinum Silver",?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+616,"Tulasi Laptop, Windows 11 Laptop Computer, 12GB RAM 256GB SSD Intel Celeron N4120 Quad-Core, 14 inch 1080P IPS Display Ultra Slim Laptop, 2.4G/5G WiFi, Bluetooth 4.2, Webcam, Long Battery Life",?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+617,"14-inch Windows 11 Laptop, 12GB RAM, 256GB NVMe SSD, up to 2100MB/S, FHD IPS Display, Intel Celeron N5095 Quad Core, 5G WiFi, BT4.2, Type C and Camera Cover, Lightweight and Portable",?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+618,"14"" Laptop 6GB RAM 64GB Storage Support 1TB SSD Expansion Traditional Laptops Windows 10 2.4G+5G WiFi Bluetooth 4.2 USB HDMI 1920x1080 FHD WOZIFAN with Wireless Mouse for Work Study - Gray",?14,?6,?64,?Intel N4020,?Ruzava,?Windows10,?Intel,?W5-Gray,?1920x1080,
+619,"CHUWI HeroBook Pro 14.1'' Laptop, 8GB RAM 256GB SSD, Windows 11 Laptop, 1TB SSD Expand, Intel Celeron N4020(up to 2.8GHz), 2K FHD IPS Display, Ultra Slim, Mini-HDMI, 5G WiFi, USB3.0, Webcam,TF Card",?14.1,?6,?256,?Intel UHD Graphics 600,?CHUWI,?Windows11,?Intel,?Space Gray,?1920x1080,?HeroBook Pro Laptop
+620,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+621,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+622,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+623,"Lenovo 15.6"" IdeaPad 1 ",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+624,Lenovo IdeaPad Gaming 3 ,?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+625,BiTECOOL 14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+626,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+627,"Dell Inspiron 15 3530 Laptop - Intel Core i5-1335U, 15.6-inch FHD 120Hz Display, 16GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 11 Home, Services Included - Platinum Silver",?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+628,"Tulasi Laptop, Windows 11 Laptop Computer, 12GB RAM 256GB SSD Intel Celeron N4120 Quad-Core, 14 inch 1080P IPS Display Ultra Slim Laptop, 2.4G/5G WiFi, Bluetooth 4.2, Webcam, Long Battery Life",?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+629,"Lenovo 15.6"" IdeaPad 1 Laptop, 1TB SSD Storage, 20GB Memory, AMD Athlon Silver Processor, 15.6"" HD Display, Wi-Fi 6 & Bluetooth 5.1, SD Card Reader, HDMI, Windows 11 Home, 1 Year Microsoft 365",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+630,"14-inch Windows 11 Laptop, 12GB RAM, 256GB NVMe SSD, up to 2100MB/S, FHD IPS Display, Intel Celeron N5095 Quad Core, 5G WiFi, BT4.2, Type C and Camera Cover, Lightweight and Portable",?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+631,"Lenovo 15.6'' IdeaPad Laptop (Latest Model), AMD Athlon Dual Core Processor, 640GB SSD (128GB eMMC+512GB PCIe SSD), Webcam, HDMI, WiFi 6, USB Type-C, Long Battery Life, NLY MP, Windows 11, Grey",?15.6,?8,?512,?AMD Radeon Graphics,?Lenovo,?Windows11S,?AMD,?Grey,??1366x768,?Lenovo IdeaPad Laptop
+632,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+633,"Dell Inspiron 15 3530 Laptop - Intel Core i5-1335U, 15.6-inch FHD 120Hz Display, 16GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 11 Home, Services Included - Platinum Silver",?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+634,"Tulasi Laptop, Windows 11 Laptop Computer, 12GB RAM 256GB SSD Intel Celeron N4120 Quad-Core, 14 inch 1080P IPS Display Ultra Slim Laptop, 2.4G/5G WiFi, Bluetooth 4.2, Webcam, Long Battery Life",?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+635,"BiTECOOL 14-inch Windows 11 Laptop, 12GB RAM, 256GB NVMe SSD, up to 2100MB/S, FHD IPS Display, Intel Celeron N5095 Quad Core, 5G WiFi, BT4.2, Type C and Camera Cover, Lightweight and Portable",?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+636,"CHUWI HeroBook Pro 14.1'' Laptop, 8GB RAM 256GB SSD, Windows 11 Laptop, 1TB SSD Expand, Intel Celeron N4020(up to 2.8GHz), 2K FHD IPS Display, Ultra Slim, Mini-HDMI, 5G WiFi, USB3.0, Webcam,TF Card",?14.1,?6,?256,?Intel UHD Graphics 600,?CHUWI,?Windows11,?Intel,?Space Gray,?1920x1080,?HeroBook Pro Laptop
+637,"Bmax Y11Plus 2 in 1 Laptop, Touchscreen, Quad Core N5100(up to 2.8GHz), 8GB LPDDR4, 256GB SATA SSD 11.6"" FHD (1920 x 1080) Display, 360 Degree Convertible, Type-C, Windows 10, HDMI, All-Metal Body",?11.6,?,?256,?Intel Celeron N5100,?Bmax,?Windows10,?Intel,?Y11 Plus,?1920x1080,?Y11 Plus
+638,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+639,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+640,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+641,"Lenovo 15.6"" IdeaPad 1 ",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+642,BiTECOOL 14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+643,Lenovo 15.6'' IdeaPad ,?15.6,?8,?512,?AMD Radeon Graphics,?Lenovo,?Windows11S,?AMD,?Grey,??1366x768,?Lenovo IdeaPad Laptop
+644,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+645,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+646,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+647,"Lenovo 15.6"" IdeaPad 1 ",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+648,Lenovo IdeaPad Gaming 3 ,?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+649,14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+650,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+651,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+652,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+653,"Lenovo 15.6"" IdeaPad 1 ",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+654,Lenovo IdeaPad Gaming 3 ,?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+655,BiTECOOL 14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+656,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+657,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+658,Lenovo 15.6'' IdeaPad ,?15.6,?8,?512,?AMD Radeon Graphics,?Lenovo,?Windows11S,?AMD,?Grey,??1366x768,?Lenovo IdeaPad Laptop
+659,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+660,14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+661,CHUWI HeroBook Pro 14.1'' ,?14.1,?6,?256,?Intel UHD Graphics 600,?CHUWI,?Windows11,?Intel,?Space Gray,?1920x1080,?HeroBook Pro Laptop
+662,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+663,"Dell Inspiron 15 3530 Laptop - Intel Core i5-1335U, 15.6-inch FHD 120Hz Display, 16GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 11 Home, Services Included - Platinum Silver",?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+664,"Tulasi Laptop, Windows 11 Laptop Computer, 12GB RAM 256GB SSD Intel Celeron N4120 Quad-Core, 14 inch 1080P IPS Display Ultra Slim Laptop, 2.4G/5G WiFi, Bluetooth 4.2, Webcam, Long Battery Life",?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+665,"Lenovo 15.6"" IdeaPad 1 Laptop, 1TB SSD Storage, 20GB Memory, AMD Athlon Silver Processor, 15.6"" HD Display, Wi-Fi 6 & Bluetooth 5.1, SD Card Reader, HDMI, Windows 11 Home, 1 Year Microsoft 365",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+666,"14-inch Windows 11 Laptop, 12GB RAM, 256GB NVMe SSD, up to 2100MB/S, FHD IPS Display, Intel Celeron N5095 Quad Core, 5G WiFi, BT4.2, Type C and Camera Cover, Lightweight and Portable",?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+667,"Lenovo 15.6'' IdeaPad Laptop (Latest Model), AMD Athlon Dual Core Processor, 640GB SSD (128GB eMMC+512GB PCIe SSD), Webcam, HDMI, WiFi 6, USB Type-C, Long Battery Life, NLY MP, Windows 11, Grey",?15.6,?8,?512,?AMD Radeon Graphics,?Lenovo,?Windows11S,?AMD,?Grey,??1366x768,?Lenovo IdeaPad Laptop
+668,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+669,"Dell Inspiron 15 3530 Laptop - Intel Core i5-1335U, 15.6-inch FHD 120Hz Display, 16GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 11 Home, Services Included - Platinum Silver",?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+670,"Tulasi Laptop, Windows 11 Laptop Computer, 12GB RAM 256GB SSD Intel Celeron N4120 Quad-Core, 14 inch 1080P IPS Display Ultra Slim Laptop, 2.4G/5G WiFi, Bluetooth 4.2, Webcam, Long Battery Life",?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+671,"14-inch Windows 11 Laptop, 12GB RAM, 256GB NVMe SSD, up to 2100MB/S, FHD IPS Display, Intel Celeron N5095 Quad Core, 5G WiFi, BT4.2, Type C and Camera Cover, Lightweight and Portable",?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+672,"CHUWI HeroBook Pro 14.1'' Laptop, 8GB RAM 256GB SSD, Windows 11 Laptop, 1TB SSD Expand, Intel Celeron N4020(up to 2.8GHz), 2K FHD IPS Display, Ultra Slim, Mini-HDMI, 5G WiFi, USB3.0, Webcam,TF Card",?14.1,?6,?256,?Intel UHD Graphics 600,?CHUWI,?Windows11,?Intel,?Space Gray,?1920x1080,?HeroBook Pro Laptop
+673,"Bmax Y11Plus 2 in 1 Laptop, Touchscreen, Quad Core N5100(up to 2.8GHz), 8GB LPDDR4, 256GB SATA SSD 11.6"" FHD (1920 x 1080) Display, 360 Degree Convertible, Type-C, Windows 10, HDMI, All-Metal Body",?11.6,?,?256,?Intel Celeron N5100,?Bmax,?Windows10,?Intel,?Y11 Plus,?1920x1080,?Y11 Plus
+674,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+675,"Dell Inspiron 15 3530 Laptop - Intel Core i5-1335U, 15.6-inch FHD 120Hz Display, 16GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 11 Home, Services Included - Platinum Silver",?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+676,"Tulasi Laptop, Windows 11 Laptop Computer, 12GB RAM 256GB SSD Intel Celeron N4120 Quad-Core, 14 inch 1080P IPS Display Ultra Slim Laptop, 2.4G/5G WiFi, Bluetooth 4.2, Webcam, Long Battery Life",?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+677,"Lenovo 15.6"" IdeaPad 1 Laptop, 1TB SSD Storage, 20GB Memory, AMD Athlon Silver Processor, 15.6"" HD Display, Wi-Fi 6 & Bluetooth 5.1, SD Card Reader, HDMI, Windows 11 Home, 1 Year Microsoft 365",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+678,"BiTECOOL 14-inch Windows 11 Laptop, 12GB RAM, 256GB NVMe SSD, up to 2100MB/S, FHD IPS Display, Intel Celeron N5095 Quad Core, 5G WiFi, BT4.2, Type C and Camera Cover, Lightweight and Portable",?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+679,"Lenovo 15.6'' IdeaPad Laptop (Latest Model), AMD Athlon Dual Core Processor, 640GB SSD (128GB eMMC+512GB PCIe SSD), Webcam, HDMI, WiFi 6, USB Type-C, Long Battery Life, NLY MP, Windows 11, Grey",?15.6,?8,?512,?AMD Radeon Graphics,?Lenovo,?Windows11S,?AMD,?Grey,??1366x768,?Lenovo IdeaPad Laptop
+680,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+681,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+682,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+683,"Lenovo 15.6"" IdeaPad 1 ",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+684,BiTECOOL 14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+685,CHUWI HeroBook Pro 14.1'' ,?14.1,?6,?256,?Intel UHD Graphics 600,?CHUWI,?Windows11,?Intel,?Space Gray,?1920x1080,?HeroBook Pro Laptop
+686,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+687,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+688,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+689,BiTECOOL 14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+690,CHUWI HeroBook Pro 14.1'' ,?14.1,?6,?256,?Intel UHD Graphics 600,?CHUWI,?Windows11,?Intel,?Space Gray,?1920x1080,?HeroBook Pro Laptop
+691,Bmax Y11Plus 2 in 1 ,?11.6,?,?256,?Intel Celeron N5100,?Bmax,?Windows10,?Intel,?Y11 Plus,?1920x1080,?Y11 Plus
+692,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+693,"Dell Inspiron 15 3530 Laptop - Intel Core i5-1335U, 15.6-inch FHD 120Hz Display, 16GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 11 Home, Services Included - Platinum Silver",?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+694,"Tulasi Laptop, Windows 11 Laptop Computer, 12GB RAM 256GB SSD Intel Celeron N4120 Quad-Core, 14 inch 1080P IPS Display Ultra Slim Laptop, 2.4G/5G WiFi, Bluetooth 4.2, Webcam, Long Battery Life",?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+695,"14-inch Windows 11 Laptop, 12GB RAM, 256GB NVMe SSD, up to 2100MB/S, FHD IPS Display, Intel Celeron N5095 Quad Core, 5G WiFi, BT4.2, Type C and Camera Cover, Lightweight and Portable",?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+696,"CHUWI HeroBook Pro 14.1'' Laptop, 8GB RAM 256GB SSD, Windows 11 Laptop, 1TB SSD Expand, Intel Celeron N4020(up to 2.8GHz), 2K FHD IPS Display, Ultra Slim, Mini-HDMI, 5G WiFi, USB3.0, Webcam,TF Card",?14.1,?6,?256,?Intel UHD Graphics 600,?CHUWI,?Windows11,?Intel,?Space Gray,?1920x1080,?HeroBook Pro Laptop
+697,"Bmax Y11Plus 2 in 1 Laptop, Touchscreen, Quad Core N5100(up to 2.8GHz), 8GB LPDDR4, 256GB SATA SSD 11.6"" FHD (1920 x 1080) Display, 360 Degree Convertible, Type-C, Windows 10, HDMI, All-Metal Body",?11.6,?,?256,?Intel Celeron N5100,?Bmax,?Windows10,?Intel,?Y11 Plus,?1920x1080,?Y11 Plus
+698,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+699,"Dell Inspiron 15 3530 Laptop - Intel Core i5-1335U, 15.6-inch FHD 120Hz Display, 16GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 11 Home, Services Included - Platinum Silver",?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+700,SideTrak Solo Pro Triple Touchscreen Portable Monitor for Laptop | 2 Freestanding 15.6” FHD 1080P LED Screens | Compatible with PC & Chrome | USB-C or HDMI | Speakers & HDR Mode,,,,,,,,,,
+701,"jumper 16 Inch Laptop, 16GB RAM 512GB SSD, Quad-Core Intel Celeron N5095, FHD IPS 1920x1200 Screen, Windows 11 Laptops Computer with Four Stereo Speakers, Cooling System, 38WH Battery, Numeric Keypad.",?16,?16,?512,?Intel UHD Graphics,?Jumper,?Windows11Home,?Intel,,?1920x1200,?EZbook S5 MAX
+702,"Dell Inspiron 7630 Laptop - Intel Core i7-13700H, 16-inch 16:10 2.5K Display, 16GB LPDDR5 RAM, 512GB SSD, NVIDIA GeForce RTX 3050 6GB GDDR6, Services Included, Windows 11 Pro - Silver",?16,?32,?,?NVIDIA GeForce RTX 3050,?Dell,?Windows11Pro,?Intel,?Silver,?2560x1600,?Dell Inspiron 16 7630 Laptop
+703,"Lenovo 15.6"" IdeaPad 1 Laptop, 1TB SSD Storage, 20GB Memory, AMD Athlon Silver Processor, 15.6"" HD Display, Wi-Fi 6 & Bluetooth 5.1, SD Card Reader, HDMI, Windows 11 Home, 1 Year Microsoft 365",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+704,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+705,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+706,SGIN ,?15.6,?24,?512,?Integrated,?SGIN,,?Intel,?Gray,,
+707,"HP 2022 Stream 14inch HD Display, Intel Celeron N4120 Quad-Core Processor,4GB DDR4 Memory,128GB Storage(64GB eMMC+64GB Card),WiFi,Bluetooth, Webcam,HDMI,Microsoft 365, Win11 S, Snow White|TGCD Bundle",?14,?4,?64,?Intel HD Graphics 600,?HP,?Windows11,?Intel,?Snow White,?1366x768,?Stream
+708,CHUWI HeroBook Pro 14.1'' ,?14.1,?6,?256,?Intel UHD Graphics 600,?CHUWI,?Windows11,?Intel,?Space Gray,?1920x1080,?HeroBook Pro Laptop
+709,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+710,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+711,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+712,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+713,"Lenovo 15.6"" IdeaPad 1 ",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+714,BiTECOOL 14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+715,CHUWI HeroBook Pro 14.1'' ,?14.1,?6,?256,?Intel UHD Graphics 600,?CHUWI,?Windows11,?Intel,?Space Gray,?1920x1080,?HeroBook Pro Laptop
+716,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+717,"Dell Inspiron 15 3530 Laptop - Intel Core i5-1335U, 15.6-inch FHD 120Hz Display, 16GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 11 Home, Services Included - Platinum Silver",?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+718,"Lenovo 15.6'' IdeaPad Laptop (Latest Model), AMD Athlon Dual Core Processor, 640GB SSD (128GB eMMC+512GB PCIe SSD), Webcam, HDMI, WiFi 6, USB Type-C, Long Battery Life, NLY MP, Windows 11, Grey",?15.6,?8,?512,?AMD Radeon Graphics,?Lenovo,?Windows11S,?AMD,?Grey,??1366x768,?Lenovo IdeaPad Laptop
+719,"Tulasi Laptop, Windows 11 Laptop Computer, 12GB RAM 256GB SSD Intel Celeron N4120 Quad-Core, 14 inch 1080P IPS Display Ultra Slim Laptop, 2.4G/5G WiFi, Bluetooth 4.2, Webcam, Long Battery Life",?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+720,"BiTECOOL 14-inch Windows 11 Laptop, 12GB RAM, 256GB NVMe SSD, up to 2100MB/S, FHD IPS Display, Intel Celeron N5095 Quad Core, 5G WiFi, BT4.2, Type C and Camera Cover, Lightweight and Portable",?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+721,"Lenovo IdeaPad Gaming 3 Laptop, 15.6” 120 Hz FHD Display, AMD Ryzen 7 7735HS, NVIDIA GeForce RTX 4050, 32GB DDR5 RAM, 1TB SSD, Backlit KB, Wi-Fi 6, RJ-45, HDMI, Windows 11 Home, Grey",?15.6,?32,?1024,?NVIDIA GeForce RTX 4050,?Lenovo,?Windows11Home,?AMD,?Gray,?1920x1080,?IdeaPad Gaming 3 15ARH7
+722,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+723,"Dell Inspiron 15 3530 Laptop - Intel Core i5-1335U, 15.6-inch FHD 120Hz Display, 16GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 11 Home, Services Included - Platinum Silver",?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+724,"Tulasi Laptop, Windows 11 Laptop Computer, 12GB RAM 256GB SSD Intel Celeron N4120 Quad-Core, 14 inch 1080P IPS Display Ultra Slim Laptop, 2.4G/5G WiFi, Bluetooth 4.2, Webcam, Long Battery Life",?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+725,"Lenovo 15.6"" IdeaPad 1 Laptop, 1TB SSD Storage, 20GB Memory, AMD Athlon Silver Processor, 15.6"" HD Display, Wi-Fi 6 & Bluetooth 5.1, SD Card Reader, HDMI, Windows 11 Home, 1 Year Microsoft 365",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+726,"BiTECOOL 14-inch Windows 11 Laptop, 12GB RAM, 256GB NVMe SSD, up to 2100MB/S, FHD IPS Display, Intel Celeron N5095 Quad Core, 5G WiFi, BT4.2, Type C and Camera Cover, Lightweight and Portable",?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+727,"Ruzava 14"" Laptop 6GB RAM 64GB Storage Support 1TB SSD Expansion Traditional Laptops Windows 10 2.4G+5G WiFi Bluetooth 4.2 USB HDMI 1920x1080 FHD WOZIFAN with Wireless Mouse for Work Study - Gray",?14,?6,?64,?Intel N4020,?Ruzava,?Windows10,?Intel,?W5-Gray,?1920x1080,
+728,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+729,"Dell Inspiron 15 3530 Laptop - Intel Core i5-1335U, 15.6-inch FHD 120Hz Display, 16GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 11 Home, Services Included - Platinum Silver",?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+730,"Tulasi Laptop, Windows 11 Laptop Computer, 12GB RAM 256GB SSD Intel Celeron N4120 Quad-Core, 14 inch 1080P IPS Display Ultra Slim Laptop, 2.4G/5G WiFi, Bluetooth 4.2, Webcam, Long Battery Life",?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+731,"Lenovo 15.6"" IdeaPad 1 Laptop, 1TB SSD Storage, 20GB Memory, AMD Athlon Silver Processor, 15.6"" HD Display, Wi-Fi 6 & Bluetooth 5.1, SD Card Reader, HDMI, Windows 11 Home, 1 Year Microsoft 365",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+732,"BiTECOOL 14-inch Windows 11 Laptop, 12GB RAM, 256GB NVMe SSD, up to 2100MB/S, FHD IPS Display, Intel Celeron N5095 Quad Core, 5G WiFi, BT4.2, Type C and Camera Cover, Lightweight and Portable",?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+733,"Lenovo 15.6'' IdeaPad Laptop (Latest Model), AMD Athlon Dual Core Processor, 640GB SSD (128GB eMMC+512GB PCIe SSD), Webcam, HDMI, WiFi 6, USB Type-C, Long Battery Life, NLY MP, Windows 11, Grey",?15.6,?8,?512,?AMD Radeon Graphics,?Lenovo,?Windows11S,?AMD,?Grey,??1366x768,?Lenovo IdeaPad Laptop
+734,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+735,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+736,Lenovo 15.6'' IdeaPad ,?15.6,?8,?512,?AMD Radeon Graphics,?Lenovo,?Windows11S,?AMD,?Grey,??1366x768,?Lenovo IdeaPad Laptop
+737,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+738,14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+739,CHUWI HeroBook Pro 14.1'' ,?14.1,?6,?256,?Intel UHD Graphics 600,?CHUWI,?Windows11,?Intel,?Space Gray,?1920x1080,?HeroBook Pro Laptop
+740,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+741,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+742,Lenovo 15.6'' IdeaPad ,?15.6,?8,?512,?AMD Radeon Graphics,?Lenovo,?Windows11S,?AMD,?Grey,??1366x768,?Lenovo IdeaPad Laptop
+743,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+744,BiTECOOL 14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+745,CHUWI HeroBook Pro 14.1'' ,?14.1,?6,?256,?Intel UHD Graphics 600,?CHUWI,?Windows11,?Intel,?Space Gray,?1920x1080,?HeroBook Pro Laptop
+746,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+747,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+748,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+749,"Lenovo 15.6"" IdeaPad 1 ",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+750,14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+751,Lenovo 15.6'' IdeaPad ,?15.6,?8,?512,?AMD Radeon Graphics,?Lenovo,?Windows11S,?AMD,?Grey,??1366x768,?Lenovo IdeaPad Laptop
+752,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+753,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+754,"Lenovo 15.6"" IdeaPad 1 ",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+755,Dell Inspiron 7630 ,?16,?32,?,?NVIDIA GeForce RTX 3050,?Dell,?Windows11Pro,?Intel,?Silver,?2560x1600,?Dell Inspiron 16 7630 Laptop
+756,BiTECOOL 14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+757,"Lenovo 15.6"" IdeaPad ",?15.6,?20,?1024,?Intel UHD Graphics,?Lenovo,?Windows11S,?Intel,?Abyss Blue,?1920x1080,??Lenovo IdeaPad
+758,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+759,"Lenovo 15.6'' IdeaPad Laptop (Latest Model), AMD Athlon Dual Core Processor, 640GB SSD (128GB eMMC+512GB PCIe SSD), Webcam, HDMI, WiFi 6, USB Type-C, Long Battery Life, NLY MP, Windows 11, Grey",?15.6,?8,?512,?AMD Radeon Graphics,?Lenovo,?Windows11S,?AMD,?Grey,??1366x768,?Lenovo IdeaPad Laptop
+760,"Tulasi Laptop, Windows 11 Laptop Computer, 12GB RAM 256GB SSD Intel Celeron N4120 Quad-Core, 14 inch 1080P IPS Display Ultra Slim Laptop, 2.4G/5G WiFi, Bluetooth 4.2, Webcam, Long Battery Life",?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+761,"Lenovo 15.6"" IdeaPad 1 Laptop, 1TB SSD Storage, 20GB Memory, AMD Athlon Silver Processor, 15.6"" HD Display, Wi-Fi 6 & Bluetooth 5.1, SD Card Reader, HDMI, Windows 11 Home, 1 Year Microsoft 365",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+762,"BiTECOOL 14-inch Windows 11 Laptop, 12GB RAM, 256GB NVMe SSD, up to 2100MB/S, FHD IPS Display, Intel Celeron N5095 Quad Core, 5G WiFi, BT4.2, Type C and Camera Cover, Lightweight and Portable",?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+763,"CHUWI HeroBook Pro 14.1'' Laptop, 8GB RAM 256GB SSD, Windows 11 Laptop, 1TB SSD Expand, Intel Celeron N4020(up to 2.8GHz), 2K FHD IPS Display, Ultra Slim, Mini-HDMI, 5G WiFi, USB3.0, Webcam,TF Card",?14.1,?6,?256,?Intel UHD Graphics 600,?CHUWI,?Windows11,?Intel,?Space Gray,?1920x1080,?HeroBook Pro Laptop
+764,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+765,"Dell Inspiron 15 3530 Laptop - Intel Core i5-1335U, 15.6-inch FHD 120Hz Display, 16GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 11 Home, Services Included - Platinum Silver",?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+766,"SGIN Laptop, 15.6 Inch Windows 11 Laptops with 24GB DDR4 512GB SSD Laptops Computer, Intel Celeron N5095 Processor(Up to 2.9GHz), FHD 1920x1080, Mini HDMI, Webcam, USB 3.0, 2.4/5.0G WiFi, Type-C",?15.6,?24,?512,?Integrated,?SGIN,,?Intel,?Gray,,
+767,"Dell Inspiron 7630 Laptop - Intel Core i7-13700H, 16-inch 16:10 2.5K Display, 16GB LPDDR5 RAM, 512GB SSD, NVIDIA GeForce RTX 3050 6GB GDDR6, Services Included, Windows 11 Pro - Silver",?16,?32,?,?NVIDIA GeForce RTX 3050,?Dell,?Windows11Pro,?Intel,?Silver,?2560x1600,?Dell Inspiron 16 7630 Laptop
+768,"SGIN 15.6 Inch 12GB DDR4 512GB SSD (TF 512GB) Laptop, Windows 11 Laptops with Intel Celeron N5095 Processor(Up to 2.9GHz), FHD 1920x1080 with Webcam, USB 3.0, WiFi, Bluetooth 4.2(Gray)",?15.6,?12,?512,?Integrated,?SGIN,?Windows11,?Intel,?Burgundy,?1920x1080,
+769,"CHUWI HeroBook Pro 14.1'' Laptop, 8GB RAM 256GB SSD, Windows 11 Laptop, 1TB SSD Expand, Intel Celeron N4020(up to 2.8GHz), 2K FHD IPS Display, Ultra Slim, Mini-HDMI, 5G WiFi, USB3.0, Webcam,TF Card",?14.1,?6,?256,?Intel UHD Graphics 600,?CHUWI,?Windows11,?Intel,?Space Gray,?1920x1080,?HeroBook Pro Laptop
+770,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+771,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+772,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+773,"Lenovo 15.6"" IdeaPad 1 ",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+774,14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+775,"14"" ",?14,?6,?64,?Intel N4020,?Ruzava,?Windows10,?Intel,?W5-Gray,?1920x1080,
+776,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+777,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+778,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+779,"Lenovo 15.6"" IdeaPad 1 ",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+780,14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+781,CHUWI HeroBook Pro 14.1'' ,?14.1,?6,?256,?Intel UHD Graphics 600,?CHUWI,?Windows11,?Intel,?Space Gray,?1920x1080,?HeroBook Pro Laptop
+782,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+783,"Dell Inspiron 15 3530 Laptop - Intel Core i5-1335U, 15.6-inch FHD 120Hz Display, 16GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 11 Home, Services Included - Platinum Silver",?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+784,"Tulasi Laptop, Windows 11 Laptop Computer, 12GB RAM 256GB SSD Intel Celeron N4120 Quad-Core, 14 inch 1080P IPS Display Ultra Slim Laptop, 2.4G/5G WiFi, Bluetooth 4.2, Webcam, Long Battery Life",?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+785,"Lenovo 15.6"" IdeaPad 1 Laptop, 1TB SSD Storage, 20GB Memory, AMD Athlon Silver Processor, 15.6"" HD Display, Wi-Fi 6 & Bluetooth 5.1, SD Card Reader, HDMI, Windows 11 Home, 1 Year Microsoft 365",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+786,"BiTECOOL 14-inch Windows 11 Laptop, 12GB RAM, 256GB NVMe SSD, up to 2100MB/S, FHD IPS Display, Intel Celeron N5095 Quad Core, 5G WiFi, BT4.2, Type C and Camera Cover, Lightweight and Portable",?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+787,"Ruzava 14"" Laptop 6GB RAM 64GB Storage Support 1TB SSD Expansion Traditional Laptops Windows 10 2.4G+5G WiFi Bluetooth 4.2 USB HDMI 1920x1080 FHD WOZIFAN with Wireless Mouse for Work Study - Gray",?14,?6,?64,?Intel N4020,?Ruzava,?Windows10,?Intel,?W5-Gray,?1920x1080,
+788,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+789,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+790,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+791,"Lenovo 15.6"" IdeaPad 1 ",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+792,14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+793,CHUWI HeroBook Pro 14.1'' ,?14.1,?6,?256,?Intel UHD Graphics 600,?CHUWI,?Windows11,?Intel,?Space Gray,?1920x1080,?HeroBook Pro Laptop
+794,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+795,"Dell Inspiron 15 3530 Laptop - Intel Core i5-1335U, 15.6-inch FHD 120Hz Display, 16GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 11 Home, Services Included - Platinum Silver",?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+796,"Tulasi Laptop, Windows 11 Laptop Computer, 12GB RAM 256GB SSD Intel Celeron N4120 Quad-Core, 14 inch 1080P IPS Display Ultra Slim Laptop, 2.4G/5G WiFi, Bluetooth 4.2, Webcam, Long Battery Life",?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+797,"Lenovo 15.6"" IdeaPad 1 Laptop, 1TB SSD Storage, 20GB Memory, AMD Athlon Silver Processor, 15.6"" HD Display, Wi-Fi 6 & Bluetooth 5.1, SD Card Reader, HDMI, Windows 11 Home, 1 Year Microsoft 365",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+798,"14-inch Windows 11 Laptop, 12GB RAM, 256GB NVMe SSD, up to 2100MB/S, FHD IPS Display, Intel Celeron N5095 Quad Core, 5G WiFi, BT4.2, Type C and Camera Cover, Lightweight and Portable",?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+799,"CHUWI HeroBook Pro 14.1'' Laptop, 8GB RAM 256GB SSD, Windows 11 Laptop, 1TB SSD Expand, Intel Celeron N4020(up to 2.8GHz), 2K FHD IPS Display, Ultra Slim, Mini-HDMI, 5G WiFi, USB3.0, Webcam,TF Card",?14.1,?6,?256,?Intel UHD Graphics 600,?CHUWI,?Windows11,?Intel,?Space Gray,?1920x1080,?HeroBook Pro Laptop
+800,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+801,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+802,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+803,"Lenovo 15.6"" IdeaPad 1 ",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+804,BiTECOOL 14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+805,"Ruzava 14"" ",?14,?6,?64,?Intel N4020,?Ruzava,?Windows10,?Intel,?W5-Gray,?1920x1080,
+806,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+807,"Dell Inspiron 15 3530 Laptop - Intel Core i5-1335U, 15.6-inch FHD 120Hz Display, 16GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 11 Home, Services Included - Platinum Silver",?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+808,"Tulasi Laptop, Windows 11 Laptop Computer, 12GB RAM 256GB SSD Intel Celeron N4120 Quad-Core, 14 inch 1080P IPS Display Ultra Slim Laptop, 2.4G/5G WiFi, Bluetooth 4.2, Webcam, Long Battery Life",?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+809,"BiTECOOL 14-inch Windows 11 Laptop, 12GB RAM, 256GB NVMe SSD, up to 2100MB/S, FHD IPS Display, Intel Celeron N5095 Quad Core, 5G WiFi, BT4.2, Type C and Camera Cover, Lightweight and Portable",?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+810,"CHUWI HeroBook Pro 14.1'' Laptop, 8GB RAM 256GB SSD, Windows 11 Laptop, 1TB SSD Expand, Intel Celeron N4020(up to 2.8GHz), 2K FHD IPS Display, Ultra Slim, Mini-HDMI, 5G WiFi, USB3.0, Webcam,TF Card",?14.1,?6,?256,?Intel UHD Graphics 600,?CHUWI,?Windows11,?Intel,?Space Gray,?1920x1080,?HeroBook Pro Laptop
+811,"Bmax Y11Plus 2 in 1 Laptop, Touchscreen, Quad Core N5100(up to 2.8GHz), 8GB LPDDR4, 256GB SATA SSD 11.6"" FHD (1920 x 1080) Display, 360 Degree Convertible, Type-C, Windows 10, HDMI, All-Metal Body",?11.6,?,?256,?Intel Celeron N5100,?Bmax,?Windows10,?Intel,?Y11 Plus,?1920x1080,?Y11 Plus
+812,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+813,"Dell Inspiron 15 3530 Laptop - Intel Core i5-1335U, 15.6-inch FHD 120Hz Display, 16GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 11 Home, Services Included - Platinum Silver",?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+814,"Tulasi Laptop, Windows 11 Laptop Computer, 12GB RAM 256GB SSD Intel Celeron N4120 Quad-Core, 14 inch 1080P IPS Display Ultra Slim Laptop, 2.4G/5G WiFi, Bluetooth 4.2, Webcam, Long Battery Life",?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+815,"Lenovo 15.6"" IdeaPad 1 Laptop, 1TB SSD Storage, 20GB Memory, AMD Athlon Silver Processor, 15.6"" HD Display, Wi-Fi 6 & Bluetooth 5.1, SD Card Reader, HDMI, Windows 11 Home, 1 Year Microsoft 365",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+816,"BiTECOOL 14-inch Windows 11 Laptop, 12GB RAM, 256GB NVMe SSD, up to 2100MB/S, FHD IPS Display, Intel Celeron N5095 Quad Core, 5G WiFi, BT4.2, Type C and Camera Cover, Lightweight and Portable",?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+817,"CHUWI HeroBook Pro 14.1'' Laptop, 8GB RAM 256GB SSD, Windows 11 Laptop, 1TB SSD Expand, Intel Celeron N4020(up to 2.8GHz), 2K FHD IPS Display, Ultra Slim, Mini-HDMI, 5G WiFi, USB3.0, Webcam,TF Card",?14.1,?6,?256,?Intel UHD Graphics 600,?CHUWI,?Windows11,?Intel,?Space Gray,?1920x1080,?HeroBook Pro Laptop
+818,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+819,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+820,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+821,14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+822,CHUWI HeroBook Pro 14.1'' ,?14.1,?6,?256,?Intel UHD Graphics 600,?CHUWI,?Windows11,?Intel,?Space Gray,?1920x1080,?HeroBook Pro Laptop
+823,Bmax Y11Plus 2 in 1 ,?11.6,?,?256,?Intel Celeron N5100,?Bmax,?Windows10,?Intel,?Y11 Plus,?1920x1080,?Y11 Plus
+824,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+825,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+826,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+827,"Lenovo 15.6"" IdeaPad 1 ",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+828,BiTECOOL 14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+829,CHUWI HeroBook Pro 14.1'' ,?14.1,?6,?256,?Intel UHD Graphics 600,?CHUWI,?Windows11,?Intel,?Space Gray,?1920x1080,?HeroBook Pro Laptop
+830,Apple 2020 MacBook Air ,,,,,,,,,,
+831,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+832,Apple 2022 MacBook Pro ,,,,,,,,,,
+833,Apple 2020 MacBook Air ,,,,,,,,,,
+834,14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+835,CHUWI HeroBook Pro 14.1'' ,?14.1,?6,?256,?Intel UHD Graphics 600,?CHUWI,?Windows11,?Intel,?Space Gray,?1920x1080,?HeroBook Pro Laptop
+836,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+837,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+838,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+839,"Lenovo 15.6"" IdeaPad 1 ",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+840,BiTECOOL 14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+841,CHUWI HeroBook Pro 14.1'' ,?14.1,?6,?256,?Intel UHD Graphics 600,?CHUWI,?Windows11,?Intel,?Space Gray,?1920x1080,?HeroBook Pro Laptop
+842,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+843,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+844,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+845,"Lenovo 15.6"" IdeaPad 1 ",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+846,14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+847,CHUWI HeroBook Pro 14.1'' ,?14.1,?6,?256,?Intel UHD Graphics 600,?CHUWI,?Windows11,?Intel,?Space Gray,?1920x1080,?HeroBook Pro Laptop
+848,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+849,"Dell Inspiron 15 3530 Laptop - Intel Core i5-1335U, 15.6-inch FHD 120Hz Display, 16GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 11 Home, Services Included - Platinum Silver",?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+850,"Tulasi Laptop, Windows 11 Laptop Computer, 12GB RAM 256GB SSD Intel Celeron N4120 Quad-Core, 14 inch 1080P IPS Display Ultra Slim Laptop, 2.4G/5G WiFi, Bluetooth 4.2, Webcam, Long Battery Life",?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+851,"BiTECOOL 14-inch Windows 11 Laptop, 12GB RAM, 256GB NVMe SSD, up to 2100MB/S, FHD IPS Display, Intel Celeron N5095 Quad Core, 5G WiFi, BT4.2, Type C and Camera Cover, Lightweight and Portable",?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+852,"CHUWI HeroBook Pro 14.1'' Laptop, 8GB RAM 256GB SSD, Windows 11 Laptop, 1TB SSD Expand, Intel Celeron N4020(up to 2.8GHz), 2K FHD IPS Display, Ultra Slim, Mini-HDMI, 5G WiFi, USB3.0, Webcam,TF Card",?14.1,?6,?256,?Intel UHD Graphics 600,?CHUWI,?Windows11,?Intel,?Space Gray,?1920x1080,?HeroBook Pro Laptop
+853,"Bmax Y11Plus 2 in 1 Laptop, Touchscreen, Quad Core N5100(up to 2.8GHz), 8GB LPDDR4, 256GB SATA SSD 11.6"" FHD (1920 x 1080) Display, 360 Degree Convertible, Type-C, Windows 10, HDMI, All-Metal Body",?11.6,?,?256,?Intel Celeron N5100,?Bmax,?Windows10,?Intel,?Y11 Plus,?1920x1080,?Y11 Plus
+854,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+855,"Dell Inspiron 15 3530 Laptop - Intel Core i5-1335U, 15.6-inch FHD 120Hz Display, 16GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 11 Home, Services Included - Platinum Silver",?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+856,"Tulasi Laptop, Windows 11 Laptop Computer, 12GB RAM 256GB SSD Intel Celeron N4120 Quad-Core, 14 inch 1080P IPS Display Ultra Slim Laptop, 2.4G/5G WiFi, Bluetooth 4.2, Webcam, Long Battery Life",?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+857,"Lenovo 15.6"" IdeaPad 1 Laptop, 1TB SSD Storage, 20GB Memory, AMD Athlon Silver Processor, 15.6"" HD Display, Wi-Fi 6 & Bluetooth 5.1, SD Card Reader, HDMI, Windows 11 Home, 1 Year Microsoft 365",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+858,"BiTECOOL 14-inch Windows 11 Laptop, 12GB RAM, 256GB NVMe SSD, up to 2100MB/S, FHD IPS Display, Intel Celeron N5095 Quad Core, 5G WiFi, BT4.2, Type C and Camera Cover, Lightweight and Portable",?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+859,"Ruzava 14"" Laptop 6GB RAM 64GB Storage Support 1TB SSD Expansion Traditional Laptops Windows 10 2.4G+5G WiFi Bluetooth 4.2 USB HDMI 1920x1080 FHD WOZIFAN with Wireless Mouse for Work Study - Gray",?14,?6,?64,?Intel N4020,?Ruzava,?Windows10,?Intel,?W5-Gray,?1920x1080,
+860,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+861,"Dell Inspiron 15 3530 Laptop - Intel Core i5-1335U, 15.6-inch FHD 120Hz Display, 16GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 11 Home, Services Included - Platinum Silver",?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+862,"Tulasi Laptop, Windows 11 Laptop Computer, 12GB RAM 256GB SSD Intel Celeron N4120 Quad-Core, 14 inch 1080P IPS Display Ultra Slim Laptop, 2.4G/5G WiFi, Bluetooth 4.2, Webcam, Long Battery Life",?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+863,"Lenovo 15.6"" IdeaPad 1 Laptop, 1TB SSD Storage, 20GB Memory, AMD Athlon Silver Processor, 15.6"" HD Display, Wi-Fi 6 & Bluetooth 5.1, SD Card Reader, HDMI, Windows 11 Home, 1 Year Microsoft 365",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+864,"BiTECOOL 14-inch Windows 11 Laptop, 12GB RAM, 256GB NVMe SSD, up to 2100MB/S, FHD IPS Display, Intel Celeron N5095 Quad Core, 5G WiFi, BT4.2, Type C and Camera Cover, Lightweight and Portable",?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+865,"Ruzava 14"" Laptop 6GB RAM 64GB Storage Support 1TB SSD Expansion Traditional Laptops Windows 10 2.4G+5G WiFi Bluetooth 4.2 USB HDMI 1920x1080 FHD WOZIFAN with Wireless Mouse for Work Study - Gray",?14,?6,?64,?Intel N4020,?Ruzava,?Windows10,?Intel,?W5-Gray,?1920x1080,
+866,"Dell Inspiron 16 5635 Laptop - AMD Ryzen 7-7730U, QHD 16 inch, 16GB LPDDR4x RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, 1 Year Premium Support - Platinum Silver",?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+867,"Dell Inspiron 15 3530 Laptop - Intel Core i5-1335U, 15.6-inch FHD 120Hz Display, 16GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 11 Home, Services Included - Platinum Silver",?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+868,"Tulasi Laptop, Windows 11 Laptop Computer, 12GB RAM 256GB SSD Intel Celeron N4120 Quad-Core, 14 inch 1080P IPS Display Ultra Slim Laptop, 2.4G/5G WiFi, Bluetooth 4.2, Webcam, Long Battery Life",?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+869,"Lenovo 15.6"" IdeaPad 1 Laptop, 1TB SSD Storage, 20GB Memory, AMD Athlon Silver Processor, 15.6"" HD Display, Wi-Fi 6 & Bluetooth 5.1, SD Card Reader, HDMI, Windows 11 Home, 1 Year Microsoft 365",?15.6,?20,?1024,?AMD Radeon Graphics,?Lenovo,?Windows11,?AMD,?Cloud Grey,?1366x768,?IdeaPad
+870,"BiTECOOL 14-inch Windows 11 Laptop, 12GB RAM, 256GB NVMe SSD, up to 2100MB/S, FHD IPS Display, Intel Celeron N5095 Quad Core, 5G WiFi, BT4.2, Type C and Camera Cover, Lightweight and Portable",?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+871,"CHUWI HeroBook Pro 14.1'' Laptop, 8GB RAM 256GB SSD, Windows 11 Laptop, 1TB SSD Expand, Intel Celeron N4020(up to 2.8GHz), 2K FHD IPS Display, Ultra Slim, Mini-HDMI, 5G WiFi, USB3.0, Webcam,TF Card",?14.1,?6,?256,?Intel UHD Graphics 600,?CHUWI,?Windows11,?Intel,?Space Gray,?1920x1080,?HeroBook Pro Laptop
+872,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+873,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+874,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+875,BiTECOOL 14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+876,CHUWI HeroBook Pro 14.1'' ,?14.1,?6,?256,?Intel UHD Graphics 600,?CHUWI,?Windows11,?Intel,?Space Gray,?1920x1080,?HeroBook Pro Laptop
+877,Bmax Y11Plus 2 in 1 ,?11.6,?,?256,?Intel Celeron N5100,?Bmax,?Windows10,?Intel,?Y11 Plus,?1920x1080,?Y11 Plus
+878,Dell Inspiron 16 5635 ,?16,?16,?1024,?AMD Radeon Graphics,?Dell,?Windows11,?AMD,?Silver,?2560x1600,?Dell Inspiron 16 5635 laptop
+879,Dell Inspiron 15 3530 ,?15.6,?16,?512,?Intel Iris Xe Graphics,?Dell,?Windows11Home,?Intel,?Silver,?1920x1080,?Dell Inspiron 15 3530 Laptop
+880,"HP Pavilion 15.6"" HD ",?15.6,?16,?1024,?Intel UHD Graphics,?HP,?Windows10,?Intel,?Scarlet Red,?1366x768,?HP Pavilion
+881,Tulasi ,?14,?,?256,?Intel UHD Graphics,?Tulasi,?Windows11Pro,?Intel,?Silver,?1920x1080,
+882,BiTECOOL 14-inch Windows 11 ,?14,?12,?256,?Intel UHD Graphics,?BiTECOOL,?Windows11Pro,?Intel,?Gray,?1920x1080,?HaloBook
+883,Windows 11 ,?13.5,?8,?,?Intel HD Graphics 600,?WAKST,?Windows11,?Intel,?Gray,?3840x2160,?LeadBook T6
